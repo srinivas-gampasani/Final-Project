@@ -1,0 +1,500 @@
+id,name,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,availability_365
+5456,Guesthouse in Austin · ★4.84 · 1 bedroom · 2 beds · 1 bath,8028,Sylvia,78702,30.26057,-97.73441,Entire home/apt,126,2,657,2023-08-27,306
+5769,Home in Austin · ★4.90 · 1 bedroom · 1 bed · 1 shared bath,8186,Elizabeth,78729,30.45697,-97.78422,Private room,45,1,290,2023-08-04,0
+6413,Guesthouse in Austin · ★4.97 · Studio · 1 bed · 1 bath,13879,Todd,78704,30.24885,-97.73587,Entire home/apt,57,30,122,2022-10-17,0
+6448,Guesthouse in Austin · ★4.97 · 1 bedroom · 2 beds · 1 bath,14156,Amy,78704,30.26034,-97.76487,Entire home/apt,159,3,305,2023-09-04,156
+8502,Guest suite in Austin · ★4.56 · 1 bedroom · 1 bed · 1 bath,25298,Karen,78741,30.23466,-97.73682,Entire home/apt,48,4,51,2023-05-16,98
+13035,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 2 baths,50793,Molly,78702,30.26098,-97.73072,Entire home/apt,123,30,18,2023-06-19,162
+18258,Bungalow in Austin · ★5.0 · 3 bedrooms · 2 beds · 2 baths,39458,Billy,78745,30.19756,-97.78754,Entire home/apt,107,3,15,2023-08-18,3
+22828,Guesthouse in Austin · ★4.94 · 1 bedroom · 1 bed · 1 bath,56488,David,78741,30.23614,-97.73225,Entire home/apt,65,30,51,2023-08-15,320
+22982,Guesthouse in Austin · ★4.91 · 2 bedrooms · 2 beds · 1 bath,89031,Gina,78703,30.28074,-97.75381,Entire home/apt,250,1,166,2023-01-02,125
+25028,Bungalow in Austin · ★4.94 · 2 bedrooms · 2 beds · 1 bath,102862,Elana,78757,30.33771,-97.73708,Entire home/apt,180,7,35,2021-07-28,51
+37324,Home in Austin · ★4.87 · 1 bedroom · 1 bed · 1 bath,161189,Chris,78727,30.42895,-97.68958,Private room,33,30,39,2023-07-14,175
+40285,Home in Austin · ★4.92 · 2 bedrooms · 2 beds · 2 baths,170787,Robbie,78731,30.35123,-97.76207,Entire home/apt,450,2,39,2023-06-10,356
+47572,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,215917,Belinda,78758,30.37783,-97.70749,Private room,43,30,8,2023-08-19,344
+50318,Condo in Austin · ★4.88 · 2 bedrooms · 3 beds · 1 bath,12409,Flip,78705,30.28588,-97.75145,Entire home/apt,101,30,35,2023-07-18,270
+57187,Guesthouse in Austin · ★4.91 · 1 bedroom · 3 beds · 1 bath,272156,Lois,78704,30.25756,-97.76995,Entire home/apt,106,1,1003,2023-09-04,306
+69303,Condo in Austin · ★4.96 · 1 bedroom · 2 beds · 1.5 baths,272156,Lois,78704,30.26146,-97.77276,Entire home/apt,154,1,224,2023-08-15,312
+69810,Guesthouse in Austin · ★4.98 · 1 bedroom · 1 bed · 1 bath,82762,Dolina,78704,30.2309,-97.76619,Entire home/apt,134,2,445,2022-03-08,0
+70812,Guesthouse in Austin · ★4.89 · 1 bedroom · 3 beds · 1 bath,268988,Stephanie,78704,30.24648,-97.74913,Entire home/apt,165,2,175,2023-02-21,67
+72833,Guesthouse in Austin · ★4.91 · 1 bedroom · 1 bed · 1 bath,378744,Ellen And Andy,78731,30.313,-97.75066,Entire home/apt,135,3,413,2023-03-26,0
+73005,Townhouse in Austin · ★4.89 · 2 bedrooms · 4 beds · 2.5 baths,128514,Vivian,78727,30.41419,-97.73183,Entire home/apt,297,4,44,2023-01-04,87
+73289,Rental unit in Austin · ★4.88 · 2 bedrooms · 2 beds · 2 baths,382510,Christina,78705,30.29016,-97.74478,Entire home/apt,111,30,60,2023-04-21,141
+74318,Home in Austin · ★4.82 · 1 bedroom · 1 bed · 1 bath,387918,Amy & Justin,78704,30.24473,-97.77923,Entire home/apt,118,2,251,2022-11-14,172
+75957,Guesthouse in Austin · ★4.97 · 1 bedroom · 2 beds · 1 bath,404260,Kelly,78703,30.29033,-97.76886,Entire home/apt,130,2,440,2023-09-06,230
+76501,Guest suite in Austin · ★4.96 · 1 bedroom · 2 beds · 1 bath,408534,Kevin And Bob,78722,30.29192,-97.71939,Entire home/apt,125,2,228,2023-07-21,40
+76911,Home in Austin · ★4.96 · 5 bedrooms · 14 beds · 3 baths,394012,Cole,78702,30.26945,-97.72491,Entire home/apt,400,2,202,2023-07-09,6
+76925,Home in Austin · ★4.94 · 3 bedrooms · 5 beds · 2 baths,411190,Lynn,78702,30.25505,-97.72552,Entire home/apt,400,2,16,2019-05-27,0
+77347,Home in Austin · 1 bedroom · 1 bed · 1 private bath,382265,Leslie,78733,30.33877,-97.882,Private room,104,2,0,,365
+77639,Home in Austin · ★4.68 · 2 bedrooms · 2 beds · 1 bath,416628,Carlos,78704,30.25023,-97.77985,Entire home/apt,179,2,60,2023-06-21,352
+78035,Home in Austin · ★4.99 · 4 bedrooms · 4 beds · 3 baths,419192,Keith And Shannon,78704,30.25659,-97.76772,Entire home/apt,750,4,91,2022-10-17,5
+78127,Home in Austin · ★4.20 · 5 bedrooms · 4 beds · 1 bath,419707,Julia,78701,30.27672,-97.74799,Entire home/apt,240,1,6,2019-05-26,0
+78422,Home in Austin · ★4.86 · 3 bedrooms · 4 beds · 1 bath,421002,E. Dixie,78702,30.27443,-97.71135,Entire home/apt,75,4,22,2023-08-06,121
+78731,Home in Austin · ★4.98 · 1 bedroom · 1 bed · 1 private bath,423131,Robin,78702,30.27011,-97.72693,Private room,129,3,223,2023-07-02,108
+78884,Rental unit in Austin · ★4.78 · Studio · 2 beds · 1 bath,2157243,Sean,78704,30.26126,-97.77358,Entire home/apt,114,2,196,2023-07-16,143
+79100,Guesthouse in Austin · ★4.97 · 1 bedroom · 1 bed · 1 bath,425706,Robert,78723,30.30933,-97.6952,Entire home/apt,127,30,39,2023-05-10,90
+79603,Bungalow in Austin · ★4.81 · 2 bedrooms · 2 beds · 1 bath,428883,Beau,78704,30.24948,-97.75896,Entire home/apt,168,2,142,2022-12-31,52
+79768,Bungalow in Austin · ★4.71 · 3 bedrooms · 3 beds · 1 bath,430091,Shawn,78702,30.26035,-97.73253,Entire home/apt,225,4,34,2019-03-11,0
+82033,Home in Austin · ★4.25 · 3 bedrooms · 4 beds · 2 baths,445746,Kimberly,78723,30.30393,-97.68872,Entire home/apt,300,2,4,2021-05-30,179
+83643,Home in Austin · ★4.96 · 1 bedroom · 1 bed · 1 shared bath,456230,Michele,78752,30.32395,-97.71851,Private room,52,2,274,2023-09-03,336
+84771,Condo in Austin · ★4.67 · 2 bedrooms · 1 bed · 1 bath,321037,Lucien,78705,30.29386,-97.74188,Entire home/apt,81,2,16,2018-01-03,0
+89475,Home in Austin · ★4.86 · 4 bedrooms · 5 beds · 2 baths,487072,Greg & Amanda,78757,30.35681,-97.72618,Entire home/apt,360,45,119,2023-03-14,344
+90898,Home in Austin · ★4.73 · 2 bedrooms · 3 beds · 1 bath,236847,Lester,78704,30.24498,-97.74935,Entire home/apt,174,1,113,2023-03-14,355
+90957,Home in Austin · ★4.57 · 1 bedroom · 2 beds · 1 shared bath,236847,Lester,78704,30.24574,-97.74828,Private room,84,1,7,2023-04-28,359
+104099,Guest suite in Austin · ★4.83 · 1 bedroom · 2 beds · 1 bath,213651,Daniel,78704,30.2545350689337,-97.7767565077829,Entire home/apt,98,1,278,2023-09-04,20
+104386,Home in Austin Texas · ★4.97 · 2 bedrooms · 3 beds · 1 bath,543367,Mary,78704,30.24645,-97.74701,Entire home/apt,150,31,139,2023-07-01,150
+104394,Bed and breakfast in Austin · ★4.63 · 1 bedroom · 1 bed · 1.5 baths,543424,Jill,78745,30.20276,-97.82506,Private room,57,7,76,2023-06-30,84
+109005,Townhouse in Austin · ★4.93 · 2 bedrooms · 2 beds · 1 bath,552705,"Amanda (Marz, Nickname)",78703,30.2826733159059,-97.7686198781023,Entire home/apt,250,3,15,2023-06-22,150
+113779,Bungalow in Austin · ★4.87 · 1 bedroom · 1 bed · 1 bath,578211,Pete,78751,30.3027,-97.72945,Entire home/apt,126,20,101,2023-05-31,288
+116014,Home in Austin · 3 bedrooms · 3 beds · 1 bath,419707,Julia,78701,30.27521,-97.74793,Entire home/apt,259,1,2,2019-04-14,0
+128326,Home in Austin · ★4.94 · 3 bedrooms · 3 beds · 2 baths,634580,Morrie And Rachel,78736,30.24309,-98.0028,Entire home/apt,295,3,88,2023-07-30,332
+140474,Bungalow in Austin · ★4.90 · 2 bedrooms · 3 beds · 1 bath,578211,Pete,78751,30.30215,-97.73046,Entire home/apt,120,20,90,2023-06-03,305
+140504,Bungalow in Austin · ★4.92 · 1 bedroom · 1 bed · 1 bath,578211,Pete,78751,30.30397,-97.73037,Entire home/apt,127,20,98,2023-07-29,337
+145210,Guesthouse in Austin · ★4.90 · 1 bedroom · 1 bed · 1 bath,475506,Dan,78705,30.30203,-97.74235,Entire home/apt,129,30,206,2022-11-09,284
+158398,Home in Austin · ★4.82 · 4 bedrooms · 4 beds · 3 baths,760426,Lis,78704,30.25288,-97.78491,Entire home/apt,999,4,17,2022-06-18,163
+167459,Home in West Lake Hills · ★4.63 · 4 bedrooms · 4 beds · 3 baths,628942,Marnie,78746,30.27767,-97.79126,Entire home/apt,800,3,8,2022-02-22,352
+174828,Home in Austin · ★4.88 · 4 bedrooms · 4 beds · 2 baths,835236,Jenny,78752,30.33238,-97.71233,Entire home/apt,249,2,371,2023-05-30,169
+184853,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 1.5 baths,518748,Rachel,78704,30.24106,-97.77315,Entire home/apt,130,30,8,2023-08-01,105
+195674,Home in Austin · ★4.95 · 4 bedrooms · 5 beds · 2.5 baths,951551,Lori,78704,30.25775,-97.76703,Entire home/apt,750,2,40,2023-03-17,330
+202187,Guesthouse in Austin · ★4.87 · 1 bedroom · 2 beds · 1 bath,989596,John,78704,30.24867,-97.74678,Entire home/apt,72,1,979,2023-08-09,229
+202753,Loft in Austin · ★5.0 · 1 bedroom · 1 bed · 1 private bath,729047,Tracy,78703,30.276272,-97.757103,Private room,200,3,15,2023-03-17,38
+207054,Home in Austin · ★4.91 · 2 bedrooms · 2 beds · 1 bath,1018853,Merri Gale & Donald,78741,30.24434,-97.73069,Entire home/apt,136,3,206,2023-07-30,78
+208897,Home in Austin · ★4.96 · 3 bedrooms · 3 beds · 1 bath,1029071,Suzanne,78702,30.263203,-97.699829,Entire home/apt,152,2,158,2023-08-21,166
+210834,Home in Austin · ★4.89 · 3 bedrooms · 5 beds · 2.5 baths,1039968,Megan,78704,30.2527,-97.74385,Entire home/apt,485,3,19,2022-12-28,36
+214795,Condo in Austin · ★4.97 · 1 bedroom · 1 bed · 1 bath,1109019,Kristi,78704,30.25175,-97.77242,Entire home/apt,67,2,105,2022-10-31,12
+218402,Home in Austin · ★4.73 · 1 bedroom · 1 bed · 1 private bath,1129520,Paulette,78754,30.36145,-97.64397,Private room,30,28,28,2023-07-20,255
+219168,Rental unit in Austin · ★4.88 · Studio · 1 bed · 1 bath,1134580,Kalu,78704,30.24519,-97.74486,Entire home/apt,250,2,8,2016-10-09,0
+222986,Home in Austin · ★4.96 · 3 bedrooms · 3 beds · 2 baths,1157982,Lyon,78702,30.25753,-97.7313,Entire home/apt,500,20,53,2017-10-01,230
+224603,Guesthouse in Austin · ★4.94 · Studio · 1 bed · 1 bath,1169129,David And Kristy,78751,30.30732,-97.72782,Entire home/apt,108,60,115,2023-08-13,178
+227372,Home in Austin · ★4.89 · 3 bedrooms · 5 beds · 2.5 baths,51183342,Hunter,78704,30.247942,-97.749763,Entire home/apt,394,1,266,2023-08-31,173
+233930,Home in Austin · ★4.94 · 2 bedrooms · 2 beds · 1 bath,578211,Pete,78751,30.30289,-97.72961,Entire home/apt,165,20,102,2023-08-14,315
+238657,Home in Austin · ★4.97 · 2 bedrooms · 2 beds · 1 bath,1250939,Kerry,78704,30.252,-97.75628,Entire home/apt,158,1,206,2023-09-04,202
+240541,Guesthouse in Austin · ★4.61 · 1 bedroom · 1 bed · 1 bath,1246229,Elizabeth,78702,30.25424,-97.72587,Entire home/apt,49,1,776,2023-09-02,45
+247770,Home in Austin · 3 bedrooms · 2 beds,1298575,Gloria,78723,30.30339,-97.68465,Entire home/apt,175,2,1,2012-03-13,0
+248515,Home in Austin · ★4.83 · 2 bedrooms · 2 beds · 1 bath,1208485,Caitlin,78702,30.25572,-97.72874,Entire home/apt,201,2,186,2023-08-25,73
+252804,Home in Austin · ★4.67 · 3 bedrooms · 3 beds · 1.5 baths,1327500,Brooks,78704,30.23254,-97.75479,Entire home/apt,100,30,94,2021-09-24,0
+254232,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 2 baths,1335409,Eric,78703,30.2786540985107,-97.7555084228516,Entire home/apt,525,7,6,2022-10-31,314
+271052,Condo in Austin · ★4.89 · 2 bedrooms · 2 beds · 2 baths,1418696,Kelsey,78704,30.25367,-97.77253,Entire home/apt,250,3,46,2023-03-19,342
+277028,Home in Austin · ★4.69 · 5 bedrooms · 13 beds · 2.5 baths,746455,Michael,78703,30.28332,-97.76272,Entire home/apt,251,1,119,2023-05-21,260
+281182,Home in Austin · ★4.90 · 3 bedrooms · 3 beds · 2.5 baths,1465788,Michelle,78702,30.28032,-97.70708,Entire home/apt,350,2,52,2023-05-07,158
+282342,Rental unit in Austin · ★4.77 · 3 bedrooms · 3 beds · 2.5 baths,1471597,Teresa,78758,30.36774,-97.7078,Entire home/apt,86,30,30,2022-11-04,0
+295275,Home in Austin · ★4.86 · 3 bedrooms · 3 beds · 2 baths,1282837,Joseph,78745,30.19037,-97.79003,Entire home/apt,191,30,66,2023-08-26,323
+300574,Guesthouse in Austin · ★4.88 · 1 bedroom · 3 beds · 1 bath,167892,Veronica,78704,30.25508,-97.75767,Entire home/apt,135,2,459,2023-09-04,331
+304808,Home in Austin · ★4.83 · 1 bedroom · 1 bed · 1 private bath,1566930,Chris,78702,30.2733,-97.7269,Private room,81,2,364,2023-07-15,313
+304866,Guesthouse in Austin · ★4.82 · 1 bedroom · 2 beds · 1 bath,1568741,Jim O',78745,30.20943,-97.77117,Entire home/apt,80,3,182,2023-05-29,347
+305392,Home in Austin · ★5.0 · 5 bedrooms · 5 beds · 3 baths,117233,Paige,78702,30.25688,-97.73244,Entire home/apt,695,3,13,2022-03-17,0
+315239,Home in Austin · 3 bedrooms · 3 beds · 2 baths,1617870,John,78745,30.21467,-97.77901,Entire home/apt,600,3,2,2014-03-17,365
+316630,Home in Austin · ★4.89 · 2 bedrooms · 2 beds · 1 bath,1626165,Gretchen,78704,30.25472,-97.75562,Entire home/apt,400,3,9,2015-03-24,0
+319759,Townhouse in Austin · ★4.84 · 5 bedrooms · 9 beds · 3.5 baths,814883,Kristen,78702,30.26585,-97.73328,Entire home/apt,321,1,316,2023-08-15,279
+319887,Home in Austin · 2 bedrooms · 3 beds · 1 bath,1640158,Jeremy,78702,30.25328,-97.72968,Entire home/apt,694,4,2,2015-03-18,0
+319894,Home in Austin · ★4.84 · 3 bedrooms · 3 beds · 2.5 baths,1640172,Gary,78724,30.28354,-97.64966,Entire home/apt,187,2,200,2023-09-04,230
+322834,Home in Austin · ★4.80 · 3 bedrooms · 5 beds · 2 baths,3797734,Leslie And Dylan,78702,30.26849,-97.71874,Entire home/apt,240,4,47,2018-03-25,0
+323733,Condo in Austin · ★4.85 · 2 bedrooms · 2 beds · 1 bath,1654178,Erik,78701,30.26843,-97.74548,Entire home/apt,178,1,361,2019-10-25,0
+324480,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,1660476,Mark,78705,30.29905,-97.73881,Entire home/apt,99,30,1,2022-09-20,363
+325889,Home in Austin · ★4.75 · 5 bedrooms · 6 beds · 2 baths,1666874,Brian,78704,30.24583,-97.75472,Entire home/apt,799,3,92,2023-09-04,337
+326172,Guesthouse in Austin · ★5.0 · 1 bedroom · 1 bed · 1 bath,1665442,Lionel,78756,30.3266506195068,-97.7436218261719,Entire home/apt,7098,30,23,2023-06-01,38
+329172,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 2 baths,1680871,Janet,78746,30.30085,-97.80794,Entire home/apt,495,3,7,2022-08-07,346
+329306,Home in Austin · ★4.84 · 1 bedroom · 1 bed · 1 shared bath,880571,Angel,78702,30.27232,-97.72579,Private room,68,2,604,2023-08-27,56
+331549,Place to stay in Austin · 1 bedroom · 1 bed · 1 bath,1690383,Sandra,78725,30.23911,-97.58625,Private room,100,2,0,,0
+333442,Home in Austin · ★4.84 · 5 bedrooms · 5 beds · 3 baths,1698318,Virginia,78703,30.31267,-97.76641,Entire home/apt,256,3,175,2023-08-28,283
+333815,Home in Austin · ★4.91 · 1 bedroom · 1 bed · 1.5 baths,372962,Kim,78704,30.25381,-97.75262,Private room,102,2,171,2023-08-17,46
+334616,Condo in Austin · 2 bedrooms · 2 beds · 1 bath,608539,D,78741,30.24481,-97.72379,Entire home/apt,250,1,2,2013-03-17,0
+335231,Home in Austin · 2 bedrooms · 2 beds · 1 bath,1665428,Krista,78704,30.23841,-97.74402,Entire home/apt,95,28,1,2012-03-15,40
+335945,Home in Austin · ★4.56 · 2 bedrooms · 2 beds · 2 baths,1555683,Patrick,78741,30.24026,-97.73338,Entire home/apt,149,3,34,2022-11-01,173
+337125,Home in Austin · ★4.79 · 1 bedroom · 2 beds,261883,Carolyn,78759,30.42035,-97.76685,Private room,80,32,33,2015-10-06,83
+340045,Loft in Austin · 1 bedroom · 1 bed · 1.5 baths,1725752,Shanti,78746,30.25937,-97.79249,Entire home/apt,400,1,1,2021-12-30,0
+340630,Home in Austin · ★4.74 · 2 bedrooms · 2 beds · 1 bath,531267,Shelley,78757,30.33061,-97.72531,Entire home/apt,50,30,24,2023-03-28,38
+341382,Home in Austin · ★4.72 · 4 bedrooms · 6 beds · 2 baths,1205884,Luke And Rachel,78702,30.26543,-97.71338,Entire home/apt,750,4,124,2019-03-17,0
+341530,Bungalow in Austin · ★4.82 · 1 bedroom · 1 bed · 1 bath,740347,Chris,78704,30.24746,-97.75662,Entire home/apt,178,2,198,2023-04-24,15
+341596,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 1 shared bath,1733004,Julie,78704,30.24623,-97.75904,Private room,135,2,94,2023-03-27,81
+342039,Guesthouse in Austin · ★4.93 · 1 bedroom · 1 bed · 1 bath,1735494,Steph And Joey,78702,30.25158,-97.73147,Entire home/apt,104,1,369,2023-08-27,154
+342243,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 1 private bath,1736662,Teresa,78759,30.41633,-97.75228,Private room,44,31,3,2020-02-13,335
+343462,Guest suite in Austin · ★4.89 · 1 bedroom · 1 bed · 1 bath,1742984,Rachel,78721,30.26895,-97.68947,Entire home/apt,99,1,262,2023-09-04,266
+343889,Rental unit in Austin · ★4.74 · Studio · 1 bed · 1 bath,1744639,Darcy,78702,30.27293,-97.72288,Entire home/apt,47,30,37,2023-07-31,128
+345221,Rental unit in Austin · ★4.38 · 2 bedrooms · 3 beds · 1 bath,1644218,Cecily,78701,30.27247,-97.74796,Entire home/apt,299,3,8,2019-11-03,0
+345473,Home in Austin · ★4.96 · 3 bedrooms · 3 beds · 2 baths,1751224,Whitney,78704,30.24619,-97.74569,Entire home/apt,209,3,196,2023-09-03,79
+345536,Bungalow in Austin · ★4.93 · 2 bedrooms · 3 beds · 1 bath,1752493,Gigi,78704,30.2466,-97.76157,Entire home/apt,165,2,307,2023-08-08,268
+347572,Home in Austin · ★4.90 · 2 bedrooms · 3 beds · 1 bath,1761506,Savanna,78702,30.26448,-97.71715,Entire home/apt,125,2,29,2020-03-01,0
+347654,Home in Austin · ★4.91 · 3 bedrooms · 3 beds · 2.5 baths,1761915,Charm,78704,30.23661,-97.7449,Entire home/apt,525,1,67,2023-07-02,80
+347935,Home in Austin · 2 bedrooms · 2 beds · 1 bath,1763742,Amber,78704,30.25152,-97.76212,Entire home/apt,643,5,1,2012-03-18,0
+349447,Bungalow in Austin · ★4.84 · 1 bedroom · 1 bed · 1 bath,1770424,Jason,78702,30.27871,-97.72332,Entire home/apt,121,1,857,2023-08-26,333
+349635,Guest suite in Austin · ★4.67 · 1 bedroom · 1 bed · 1 shared bath,1771402,Cindie,78703,30.29932,-97.77631,Private room,72,1,71,2022-10-23,25
+350072,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 3 baths,1714818,Jessica,78704,30.24643,-97.76403,Entire home/apt,825,3,6,2014-11-04,0
+351865,Home in Austin · 1 bedroom · 1 bed · 1 bath,1782559,Julie,78754,30.33345,-97.64937,Private room,75,1,0,,0
+353261,Home in Austin · ★4.82 · 4 bedrooms · 5 beds · 3.5 baths,1789494,Lara,78704,30.24276,-97.75211,Entire home/apt,575,3,209,2023-06-11,250
+353955,Rental unit in Austin · 2 bedrooms · 1 bed,1792021,Mykel,78746,30.34574,-97.80069,Entire home/apt,225,3,1,2012-03-15,0
+354263,Guesthouse in Austin · ★4.90 · 1 bedroom · 2 beds · 1 bath,1752493,Gigi,78704,30.24821,-97.76343,Entire home/apt,125,1,404,2023-09-04,312
+354513,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 2.5 baths,1795232,Sara,78702,30.25884,-97.73056,Entire home/apt,630,3,5,2017-03-15,0
+354569,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 2 baths,2049988,Mike,78703,30.28885,-97.76001,Entire home/apt,248,3,11,2017-07-05,0
+355176,Rental unit in Austin · ★4.85 · 1 bedroom · 1 bed · 1 bath,1798140,Scott,78745,30.22187,-97.7747,Entire home/apt,110,30,21,2021-05-02,0
+355232,Home in Austin · ★5.0 · 3 bedrooms · 7 beds,1798084,Jeffrey,78704,30.24748,-97.74724,Entire home/apt,1000,1,3,2017-03-19,365
+355328,Home in Austin · 1 bedroom · 1 bed · 1 bath,1798834,Joan,78704,30.23928,-97.77907,Entire home/apt,100,1,0,,0
+355792,Rental unit in Austin · ★4.85 · 1 bedroom · 1 bed · 1 bath,1801114,An,78703,30.28097,-97.75393,Entire home/apt,97,2,14,2021-11-29,0
+356675,Home in Austin · 3 bedrooms · 4 beds · 2.5 baths,1805253,Trey,78703,30.3054,-97.76974,Entire home/apt,1050,30,2,2013-06-01,0
+356719,Home in Austin · 3 bedrooms · 3 beds · 2 baths,1805524,Jai,78723,30.30571,-97.69464,Entire home/apt,300,2,1,2012-11-20,0
+356837,Townhouse in Austin · ★4.85 · 2 bedrooms · 5 beds · 2.5 baths,1806205,Varun,78701,30.28184,-97.74276,Entire home/apt,356,30,35,2022-07-22,268
+357529,Home in Austin · ★4.98 · 2 bedrooms · 2 beds · 1 bath,1808807,Renee,78704,30.25478,-97.76854,Entire home/apt,190,3,356,2023-09-04,161
+358164,Cabin in Austin · ★4.95 · 1 bedroom · 2 beds · 1 private bath,1812799,Monica,78751,30.3124,-97.72007,Private room,102,2,231,2023-06-29,275
+358643,Home in Austin · 2 bedrooms · 1 bed · 0 baths,1815367,Kathy,78704,30.22971,-97.76695,Entire home/apt,800,1,0,,0
+362460,Home in Austin · 2 bedrooms · 2 beds · 1 bath,1831617,Chris,78756,30.31744,-97.74547,Entire home/apt,625,4,0,,0
+362525,Cottage in Austin · ★4.88 · 2 bedrooms · 1 bed · 1 bath,1827423,Vicki,78741,30.22314,-97.71985,Entire home/apt,65,30,40,2019-10-28,326
+362662,Home in Austin · ★4.82 · 4 bedrooms · 9 beds · 4 baths,1832618,Robert,78702,30.25313,-97.72534,Entire home/apt,471,2,109,2023-05-01,332
+363040,Guest suite in Austin · ★4.82 · Studio · 2 beds · 1 bath,213651,Daniel,78704,30.25433,-97.77582,Entire home/apt,83,1,397,2023-08-20,2
+363944,Home in Austin · ★4.94 · 5 bedrooms · 7 beds · 4 baths,1840480,Scott & Sally,78704,30.25795,-97.77202,Entire home/apt,517,4,33,2023-05-08,80
+364025,Rental unit in Austin · ★4.69 · 1 bedroom · 2 beds · 1 bath,1839064,Adriana,78703,30.27371,-97.75301,Entire home/apt,225,5,13,2019-03-14,0
+364269,Home in Austin · ★4.88 · 3 bedrooms · 4 beds · 2.5 baths,1840480,Scott & Sally,78704,30.25954,-97.76978,Entire home/apt,224,4,110,2023-08-20,190
+365471,Home in Austin · ★4.82 · 3 bedrooms · 4 beds · 2.5 baths,1845598,D.K.,78702,30.25917,-97.73425,Entire home/apt,492,1,104,2023-04-16,107
+367356,Cottage in Austin · ★4.75 · 2 bedrooms · 3 beds · 1 bath,1488733,Vacasa Texas,78751,30.3065,-97.72278,Entire home/apt,140,1,179,2022-11-06,360
+367789,Home in Austin · 4 bedrooms · 6 beds · 4.5 baths,1856695,John,78703,30.30549,-97.77147,Entire home/apt,2150,4,1,2014-03-17,0
+368057,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 2.5 baths,1858184,Carlos,78723,30.29608,-97.70658,Entire home/apt,160,72,15,2021-08-08,0
+369090,Rental unit in Austin · 2 bedrooms · 1 bed · 1 bath,1861886,Sarah,78704,30.25858,-97.75181,Entire home/apt,650,1,0,,0
+381240,Townhouse in Austin · ★5.0 · 2 bedrooms · 2 beds · 2.5 baths,1887493,Sobena,78704,30.2538,-97.74359,Entire home/apt,398,4,9,2022-10-24,202
+383603,Home in Austin · ★4.88 · 1 bedroom · 1 bed · 1 shared bath,1901242,Leslie,78702,30.25772,-97.7252,Private room,78,4,115,2023-03-30,15
+406911,Guest suite in Austin · ★4.95 · 1 bedroom · 1 bed · 1 bath,1652515,Cynthia,78704,30.25909,-97.756,Entire home/apt,155,1,432,2023-08-13,337
+412290,Rental unit in Austin · ★4.67 · 1 bedroom · 2 beds · 1.5 baths,1726978,Benjamin,78704,30.23899,-97.7522,Private room,47,3,52,2018-01-17,0
+424279,Condo in Austin · ★4.89 · 2 bedrooms · 3 beds · 2 baths,1275188,Susie & Eoin,78704,30.241,-97.75371,Entire home/apt,153,30,27,2022-04-09,157
+430683,Home in Austin · 3 bedrooms · 3 beds · 2 baths,2141281,Melanie,78731,30.33875,-97.76135,Entire home/apt,695,31,2,2016-05-30,62
+433996,Loft in Austin · ★4.82 · 1 bedroom · 1 bed · 2 baths,2157243,Sean,78704,30.26139,-97.77566,Entire home/apt,119,2,288,2023-08-20,125
+435211,Rental unit in Austin · ★4.84 · 1 bedroom · 1 bed · 1 shared bath,1644218,Cecily,78701,30.27241,-97.74894,Private room,82,2,164,2020-02-15,0
+442720,Home in Austin · ★4.81 · 4 bedrooms · 5 beds · 3 baths,2200336,Gretchen,78746,30.29948,-97.79728,Entire home/apt,253,3,103,2023-02-26,160
+461404,Bungalow in Austin · ★4.77 · 2 bedrooms · 3 beds · 1 bath,1021729,Nita,78756,30.3239,-97.731,Entire home/apt,112,2,97,2023-07-30,302
+474901,Home in Austin · ★5.0 · 3 bedrooms · 4 beds · 3 baths,2354063,Marit,78704,30.25174,-97.78213,Entire home/apt,599,2,5,2016-10-10,353
+479197,Condo in Austin · ★4.94 · 1 bedroom · 1 bed · 1 private bath,1918269,Amanda,78704,30.258,-97.75195,Private room,61,30,33,2023-05-12,214
+485360,Condo in Austin · ★4.96 · Studio · 1 bed · 1 bath,2402591,Jane,78702,30.26778,-97.72849,Entire home/apt,149,4,150,2023-05-28,39
+501861,Guesthouse in Austin · ★4.97 · 2 bedrooms · 2 beds · 1 bath,2476440,Michelle,78704,30.253061,-97.745712,Entire home/apt,289,2,102,2023-05-24,327
+510168,Home in Austin · ★4.93 · 3 bedrooms · 7 beds · 2 baths,793021,Steve,78733,30.34253,-97.8616,Entire home/apt,314,2,121,2023-08-13,338
+517378,Rental unit in Austin · 2 bedrooms · 2 beds · 2 baths,2546917,Clint,78745,30.20976,-97.81729,Entire home/apt,250,1,0,,0
+517430,Rental unit in Austin · ★4.99 · 1 bedroom · 2 beds · 1 bath,2546775,Rice,78705,30.29961,-97.73449,Entire home/apt,130,2,184,2023-08-31,90
+522136,Rental unit in Austin · ★4.96 · 1 bedroom · 2 beds · 1 bath,2567934,Alexis,78701,30.27936,-97.74362,Entire home/apt,130,3,498,2023-09-01,118
+525231,Guesthouse in Austin · ★4.89 · 2 bedrooms · 2 beds · 1 bath,2507231,Kris,78757,30.34024,-97.73739,Entire home/apt,124,2,114,2023-07-11,132
+528338,Rental unit in Austin · ★4.90 · 1 bedroom · 2 beds · 1 bath,2595932,Amber,78704,30.2619,-97.76328,Entire home/apt,99,3,530,2023-08-13,12
+530483,Home in Austin · ★4.54 · 2 bedrooms · 2 beds · 2 baths,359112,Sara,78722,30.29288,-97.71964,Entire home/apt,325,28,16,2022-12-03,83
+540377,Home in Austin · ★5.0 · 3 bedrooms · 4 beds · 2 baths,989596,John,78704,30.24852,-97.74502,Entire home/apt,255,3,7,2020-03-21,0
+542124,Home in Austin · ★4.98 · 1 bedroom · 1 bed · 1 shared bath,2457470,Sharon,78702,30.27514,-97.71954,Private room,105,2,54,2023-04-30,354
+560094,Home in Austin · ★4.88 · 4 bedrooms · 3 beds · 3 baths,4335991,Karen,78704,30.2478,-97.786,Entire home/apt,450,2,90,2023-04-30,298
+563735,Home in Austin · 1 bedroom · 1 bed · 1 bath,2771838,Pamela,78704,30.25289,-97.79371,Private room,55,30,1,2013-10-07,365
+587572,Condo in Austin · ★4.78 · 1 bedroom · 1 bed · 1 bath,7976770,Andrew,78704,30.24546,-97.76627,Entire home/apt,100,2,193,2022-12-17,160
+592958,Home in Austin · ★4.91 · 3 bedrooms · 4 beds · 1.5 baths,2927288,Tracy,78704,30.24373,-97.75394,Entire home/apt,286,2,92,2023-09-04,10
+602877,Condo in Austin · ★3.75 · 1 bedroom · 1 bed · 1 bath,1280071,Alexis,78757,30.35992,-97.7331,Entire home/apt,85,30,5,2019-08-31,310
+603084,Home in Austin · ★4.77 · 3 bedrooms · 3 beds · 2 baths,1282837,Joseph,78745,30.20451,-97.7971,Entire home/apt,191,30,96,2023-08-04,136
+607536,Home in Austin · ★4.87 · 2 bedrooms · 2 beds · 1.5 baths,2546033,Adam,78723,30.30308,-97.67689,Private room,111,2,146,2023-05-30,338
+609427,Guesthouse in Austin · ★4.83 · 1 bedroom · 1 bed · 1 bath,10615,Simon,78704,30.24492,-97.76119,Entire home/apt,110,30,62,2023-08-19,117
+609618,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 2 baths,2989106,Janet,78722,30.29991,-97.71398,Private room,70,2,28,2019-12-09,0
+622495,Condo in Austin · ★4.93 · 1 bedroom · 2 beds · 1 bath,12409,Flip,78705,30.28714,-97.75258,Entire home/apt,50,10,41,2023-08-09,244
+628034,Bungalow in Austin · ★4.91 · 2 bedrooms · 2 beds · 2 baths,2436512,Crystal,78702,30.27191,-97.71989,Entire home/apt,166,1,670,2023-08-27,251
+632659,Guesthouse in Austin · ★4.98 · 2 bedrooms · 2 beds · 1 bath,3147504,Michelle,78722,30.28273,-97.71702,Entire home/apt,187,2,435,2023-09-04,109
+637480,Rental unit in Austin · ★4.80 · 1 bedroom · 1 bed · 1 bath,3179679,Jaz,78703,30.27808,-97.75098,Entire home/apt,190,3,11,2019-10-14,0
+644051,Home in Austin · ★4.92 · 4 bedrooms · 6 beds · 2 baths,3222157,Tracey,78704,30.25084,-97.73897,Entire home/apt,786,2,37,2022-06-22,357
+649833,Home in Austin · 2 bedrooms · 2 beds · 1.5 baths,3262147,Perry,78701,30.27508,-97.75095,Entire home/apt,899,3,1,2013-03-13,365
+660425,Guest suite in Austin · ★4.91 · 2 bedrooms · 2 beds · 1 bath,3333277,Gisela,78704,30.25278,-97.77303,Entire home/apt,175,2,171,2023-04-02,130
+662226,Home in Austin · ★4.96 · 2 bedrooms · 2 beds · 1 bath,543367,Mary,78757,30.33529,-97.72924,Entire home/apt,160,30,25,2023-07-02,209
+662245,Condo in Austin · 2 bedrooms · 2 beds · 2 baths,3343870,Brandon,78703,30.26869,-97.75165,Entire home/apt,493,5,2,2014-03-13,0
+664013,Home in Austin · ★4.83 · 1 bedroom · 1 bed · 1 private bath,265070,Lata,78733,30.34998,-97.85608,Private room,82,2,193,2023-07-29,155
+666423,Home in Austin · ★4.93 · 3 bedrooms · 3 beds · 1 bath,2350380,Nessa,78704,30.24831,-97.77864,Entire home/apt,375,2,16,2022-10-24,353
+666768,Cabin in Austin · ★4.90 · 1 bedroom · 1 bed,2350380,Nessa,78704,30.24747,-97.77826,Private room,100,2,10,2023-05-06,353
+668239,Home in Austin · ★4.90 · 3 bedrooms · 3 beds · 1 bath,3382193,Ayann & Sebastian,78704,30.24389,-97.76607,Entire home/apt,467,3,116,2022-03-27,0
+668301,Guesthouse in Austin · ★4.91 · 2 bedrooms · 2 beds · 2 baths,2885190,John & Carol,78704,30.24706,-97.75664,Entire home/apt,300,2,177,2023-06-19,20
+669469,Rental unit in Austin · ★4.63 · 1 bedroom · 1 bed · 1 bath,3389824,Raquel + Jacob,78701,30.27089,-97.74113,Entire home/apt,821,1,349,2020-05-24,0
+676107,Home in Austin · ★4.93 · 1 bedroom · 1 bed · 1 private bath,3434065,Leia & Keri,78748,30.15374,-97.80159,Private room,66,1,253,2020-03-13,0
+676959,Guest suite in Austin · ★4.88 · 1 bedroom · 1 bed · 1 private bath,3434065,Leia & Keri,78748,30.15391,-97.80261,Private room,49,1,417,2020-02-16,1
+685361,Home in Austin · ★4.89 · 4 bedrooms · 7 beds · 3.5 baths,3495665,Laura,78703,30.2803,-97.75612,Entire home/apt,1011,2,37,2022-10-09,348
+685451,Campsite in Austin · ★4.90 · 1 bed · 1 bath,1568741,Jim O',78745,30.21038,-97.76873,Entire home/apt,24,2,43,2023-07-10,365
+686463,Home in Austin · ★5.0 · 4 bedrooms · 3 beds · 2 baths,2157243,Sean,78704,30.25505,-97.77267,Entire home/apt,1000,2,12,2018-03-19,364
+687675,Home in Austin · ★4.70 · 3 bedrooms · 3 beds · 2 baths,3509782,Meaghan,78731,30.3513,-97.76011,Entire home/apt,275,2,67,2020-02-28,0
+692220,Home in Austin · ★4.68 · 1 bedroom · 2 beds · 1 bath,3539325,Garret,78704,30.23537,-97.75171,Entire home/apt,65,30,64,2022-09-30,253
+693890,Rental unit in Austin · 2 bedrooms · 2 beds · 1 bath,3547591,Alana,78704,30.24313,-97.74225,Entire home/apt,545,2,0,,0
+698373,Rental unit in Austin · 3 bedrooms · 3 beds · 2 baths,3579720,Ryan,78704,30.25689,-97.74658,Private room,250,3,0,,0
+699018,Home in Austin · ★4.61 · 3 bedrooms · 4 beds · 1 bath,3584580,Katherine,78731,30.31268,-97.75381,Entire home/apt,148,3,62,2023-04-30,158
+699485,Home in Austin · 1 bedroom · 1 bed · 1.5 baths,3587826,David,78745,30.19411,-97.78186,Entire home/apt,400,1,0,,0
+701300,Home in Austin · 3 bedrooms · 3 beds · 3 baths,3598921,David,78759,30.37102,-97.74446,Entire home/apt,1250,2,0,,0
+701392,Home in Austin · ★4.92 · 3 bedrooms · 3 beds · 2 baths,2207307,Elizabeth & Mike,78705,30.2991,-97.74167,Entire home/apt,228,2,142,2020-03-11,0
+702474,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,3605974,Courtney,78704,30.2307,-97.76556,Private room,300,1,0,,0
+702825,Home in Austin · ★4.91 · 3 bedrooms · 3 beds · 2 baths,3608356,Larry,78704,30.23573,-97.76233,Entire home/apt,250,3,254,2023-08-20,267
+704589,Condo in Austin · ★4.96 · 1 bedroom · 1 bed · 1 bath,3619116,Amy,78741,30.24618,-97.72823,Entire home/apt,263,2,49,2023-05-14,353
+704738,Home in Austin · ★4.86 · 4 bedrooms · 5 beds · 3 baths,2548002,Trent,78704,30.25803,-97.76974,Entire home/apt,325,30,16,2023-07-30,181
+705858,Home in Austin · ★4.97 · 1 bedroom · 1 bed · 1 bath,3626574,Bill,78704,30.24654,-97.74713,Entire home/apt,193,1,866,2023-08-26,293
+710276,Home in Austin · ★5.0 · 1 bedroom · 2 beds · 1 bath,1208231,Nadia,78704,30.24187,-97.77914,Entire home/apt,233,5,5,2016-03-07,0
+711149,Home in Austin · 3 bedrooms · 4 beds,3659932,Ken,78734,30.3999,-97.91374,Entire home/apt,1100,1,0,,363
+714922,Home in Austin · ★4.91 · 2 bedrooms · 2 beds · 1 bath,3295530,Susan,78704,30.24103,-97.76325,Entire home/apt,89,30,92,2023-06-22,119
+716119,Guest suite in Austin · ★4.88 · 1 bedroom · 1 bed · 1 bath,3600437,Jake,78754,30.33652,-97.65128,Entire home/apt,149,1,265,2022-02-27,0
+719298,Home in Austin · 4 bedrooms · 5 beds · 2.5 baths,2989155,Louis,78702,30.26715,-97.72527,Entire home/apt,850,4,0,,0
+720315,Condo in Austin · ★4.95 · 1 bedroom · 1 bed · 1 bath,393905,David,78741,30.24538,-97.72945,Entire home/apt,200,2,129,2023-08-21,219
+720369,Townhouse in Austin · ★4.94 · 3 bedrooms · 4 beds · 2.5 baths,3718168,Caren,78723,30.29409,-97.704,Entire home/apt,250,2,83,2023-03-19,121
+723950,Bungalow in Austin · ★4.80 · 3 bedrooms · 3 beds · 2 baths,3742380,Paola,78702,30.25267,-97.72465,Entire home/apt,131,4,102,2023-07-31,286
+726770,Home in Austin · ★4.90 · 1 bedroom · 1 bed · 1 private bath,1345415,Melissa,78722,30.30148,-97.71339,Private room,57,30,21,2022-10-22,83
+727593,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 2 baths,3769789,Chris,78746,30.29727,-97.7892,Entire home/apt,5343,360,7,2015-03-19,363
+727662,Bungalow in Austin · ★4.83 · 2 bedrooms · 2 beds · 1 bath,1192714,Lisa,78704,30.24039,-97.74363,Entire home/apt,263,7,48,2020-02-29,0
+728728,Home in Austin · ★4.92 · 1 bedroom · 1 bed · 1 bath,3781862,Victoria,78744,30.19554,-97.69451,Private room,33,30,51,2022-10-07,343
+729271,Home in Austin · ★4.71 · 2 bedrooms · 2 beds · 2 baths,3787052,Carol,78704,30.238,-97.76486,Entire home/apt,700,4,8,2018-03-13,0
+731024,Home in Austin · ★4.97 · 3 bedrooms · 3 beds · 2 baths,1735494,Steph And Joey,78702,30.25275,-97.72917,Entire home/apt,500,3,32,2023-02-28,332
+733203,Home in Austin · ★4.96 · 5 bedrooms · 8 beds · 2 baths,3820555,Justin&Becca,78702,30.27221,-97.72846,Entire home/apt,657,2,300,2023-08-21,345
+735592,Guest suite in Austin · ★4.92 · 1 bedroom · 4 beds · 1 bath,263280,Cristen,78737,30.22242,-97.91042,Entire home/apt,200,2,39,2023-09-04,347
+735659,Home in Austin · 4 bedrooms · 4 beds · 3.5 baths,3837842,Catherine,78738,30.32518,-97.97659,Entire home/apt,1200,3,0,,0
+735775,Home in Austin · 3 bedrooms · 2 beds · 2 baths,3005855,Tami,78745,30.18722,-97.78813,Entire home/apt,375,3,0,,0
+736279,Home in Austin · ★4.95 · 1 bedroom · 1 bed · 1 shared bath,3842544,Laura,78759,30.41276,-97.72443,Private room,70,30,19,2023-03-10,237
+742593,Bungalow in Austin · ★4.97 · 4 bedrooms · 4 beds · 2 baths,2862517,Robert,78751,30.31197,-97.72955,Entire home/apt,271,3,143,2023-07-29,74
+743362,Home in Austin · ★4.71 · 3 bedrooms · 3 beds · 2 baths,3893968,Scott,78744,30.19538,-97.69632,Entire home/apt,110,3,28,2023-06-04,21
+746317,Home in Austin · ★4.89 · 2 bedrooms · 3 beds · 1.5 baths,1840480,Scott & Sally,78704,30.25909,-97.77017,Entire home/apt,201,4,91,2023-08-04,174
+747499,Home in Austin · ★4.95 · 2 bedrooms · 2 beds · 1 bath,3924382,Phillip,78703,30.28026,-97.75703,Entire home/apt,250,3,106,2023-04-05,312
+750935,Home in Austin · ★4.74 · 2 bedrooms · 3 beds · 1 bath,3948329,James,78702,30.2702,-97.72862,Entire home/apt,700,2,39,2023-03-16,250
+751847,Home in Austin · ★4.94 · 4 bedrooms · 4 beds · 2 baths,487072,Greg & Amanda,78757,30.36084,-97.72593,Entire home/apt,320,45,142,2023-08-05,343
+760036,Loft in Austin · ★5.0 · 1 bedroom · 1 bed · 1 bath,4005799,Gabe,78701,30.26836,-97.74724,Entire home/apt,195,14,6,2023-06-01,274
+761955,Home in Austin · ★5.0 · 4 bedrooms · 4 beds · 4 baths,11762795,Mandi,78704,30.24852,-97.78277,Entire home/apt,1000,3,7,2017-03-13,365
+762400,Home in Austin · ★4.91 · 4 bedrooms · 7 beds · 3 baths,1795217,Stan,78703,30.27805,-97.75752,Entire home/apt,685,2,147,2021-12-22,314
+763084,Home in Austin · 5 bedrooms · 5 beds · 4 baths,4022974,Mary K.,78703,30.29624,-97.77349,Entire home/apt,1999,3,1,2014-03-11,365
+765117,Home in Austin · 1 bedroom · 1 bed · 1 bath,4033615,Karen,78745,30.21366,-97.81559,Private room,106,1,0,,0
+765450,Cabin in Austin · ★4.99 · 2 bedrooms · 4 beds · 1 bath,4035868,Carolyn,78756,30.32255,-97.73869,Entire home/apt,265,1,154,2023-09-03,249
+771437,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 1 shared bath,4070275,Daniel,78745,30.22437,-97.78495,Private room,100,1,7,2017-10-22,0
+775192,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,2438977,David,78741,30.23746,-97.7099,Private room,265,1,2,2013-03-18,0
+776649,Home in Austin · ★4.91 · 4 bedrooms · 8 beds · 3 baths,1101753,John & Tina,78704,30.24369,-97.74169,Entire home/apt,3000,2,59,2019-08-04,0
+781716,Home in Austin · ★4.73 · 2 bedrooms · 5 beds · 1 bath,880571,Angel,78704,30.24293,-97.76155,Entire home/apt,171,3,358,2021-08-15,68
+785963,Home in Austin · ★4.85 · 2 bedrooms · 3 beds · 2 baths,4143759,Katy & Rick,78704,30.24784,-97.76318,Entire home/apt,279,2,101,2023-09-04,342
+789994,Condo in Austin · 1 bedroom · 1 bed · 2.5 shared baths,4162906,Edward &Quot;Jack&Quot;,78752,30.32713,-97.68127,Private room,125,1,0,,0
+799135,Rental unit in Austin · ★4.33 · 2 bedrooms · 3 beds · 1 bath,2227467,Agnies,78704,30.2359,-97.76422,Entire home/apt,199,90,3,2016-02-28,179
+801521,Loft in Austin · ★4.93 · Studio · 3 beds · 1 bath,4218754,Jana,78704,30.23457,-97.7615,Entire home/apt,91,2,215,2023-09-04,114
+811086,Home in Austin · ★4.57 · 3 bedrooms · 3 beds · 1 bath,419707,Julia,78701,30.27485,-97.7486,Entire home/apt,260,1,7,2019-04-28,0
+813709,Guesthouse in Austin · ★4.93 · 1 bedroom · 1 bed · 1 bath,578211,Pete,78751,30.30263,-97.7293,Entire home/apt,102,20,61,2023-08-13,344
+814908,Home in Austin · ★4.73 · 8 bedrooms · 10 beds · 4.5 baths,2762526,Moya,78704,30.25551,-97.7741,Entire home/apt,1034,3,90,2023-08-14,221
+825940,Home in Austin · ★4.98 · 1 bedroom · 1 bed · 1 private bath,3922483,Max,78704,30.2402,-97.77623,Private room,74,3,52,2023-06-15,65
+826750,Home in Austin · ★4.73 · 5 bedrooms · 6 beds · 2.5 baths,3584580,Katherine,78726,30.44262,-97.82678,Entire home/apt,234,3,53,2023-06-19,153
+839470,Home in Austin · 1 bedroom · 2 beds · 1 bath,889533,Sandra,78704,30.24565,-97.77877,Private room,60,1,0,,0
+846780,Home in Austin · ★4.96 · 2 bedrooms · 2 beds · 1 bath,4421865,Tina,78704,30.25222,-97.7704,Entire home/apt,171,3,226,2023-08-13,311
+850518,Bungalow in Austin · ★4.95 · 2 bedrooms · 3 beds · 1 bath,3354999,Mollie,78702,30.26379,-97.72015,Entire home/apt,191,2,124,2023-07-03,0
+860402,Condo in Austin · ★5.0 · 2 bedrooms · 2 beds · 1.5 baths,4506424,Abigail,78701,30.26986,-97.7485,Entire home/apt,130,30,9,2021-10-26,321
+867806,Guesthouse in Austin · ★5.0 · 1 bedroom · 1 bed · 1 bath,245617,Peter,78756,30.33229,-97.74462,Entire home/apt,75,30,5,2022-11-30,266
+870943,Rental unit in Austin · ★4.86 · 1 bedroom · 1 bed · 1 bath,2791060,Neal,78704,30.24997,-97.77983,Entire home/apt,99,30,22,2023-08-17,58
+878464,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 1.5 baths,4160337,Amenity,78702,30.27787,-97.71919,Entire home/apt,500,2,3,2019-03-14,0
+879070,Bungalow in Austin · ★4.93 · 1 bedroom · 2 beds · 1 shared bath,582827,Troy,78731,30.32095,-97.75126,Private room,98,30,167,2020-03-08,177
+883802,Home in Austin · ★4.87 · 1 bedroom · 1 bed · 1 shared bath,880571,Angel,78702,30.27188,-97.72466,Private room,76,2,413,2023-08-05,74
+883970,Rental unit in Austin · ★5.0 · 1 bedroom · 2 beds · 1 bath,4681431,Susan,78704,30.24563,-97.7484,Entire home/apt,160,2,35,2023-07-10,282
+890163,Bungalow in Austin · ★4.92 · 1 bedroom · 2 beds · 1 bath,4725234,Roman,78702,30.25233,-97.72403,Entire home/apt,103,2,304,2023-08-28,61
+890680,Home in Austin · ★5.0 · 2 bedrooms · 2 beds · 2 baths,3757314,Kathy,78704,30.25259,-97.78249,Entire home/apt,446,2,4,2017-05-21,365
+893624,Home in Austin · ★4.67 · 1 bedroom · 1 bed · 1 private bath,4753546,Paprika,78704,30.24539,-97.7478,Private room,137,3,27,2022-03-17,71
+893630,Home in Austin · ★4.85 · 3 bedrooms · 3 beds · 2 baths,4753546,Paprika,78702,30.25264,-97.72013,Entire home/apt,90,14,87,2023-05-29,115
+894743,Home in Austin · ★4.73 · 1 bedroom · 1 bed · 1 bath,3539325,Garret,78704,30.23419,-97.75288,Entire home/apt,48,30,52,2022-11-19,252
+895352,Home in Austin · ★5.0 · 4 bedrooms · 8 beds · 3 baths,3701946,Kristin,78702,30.28209,-97.70628,Entire home/apt,600,3,6,2018-03-14,0
+900420,Home in Austin · 3 bedrooms · 3 beds · 2 baths,4808690,Leigh,78723,30.2917,-97.70521,Entire home/apt,775,5,0,,0
+904354,Villa in Austin · ★4.79 · 5 bedrooms · 7 beds · 3 baths,1772568,David,78702,30.25878,-97.7233,Entire home/apt,921,2,260,2023-08-13,339
+910250,Rental unit in Austin · ★4.84 · 1 bedroom · 2 beds · 1 bath,4882441,Valentina,78704,30.26227,-97.76355,Entire home/apt,115,3,86,2023-06-08,305
+915150,Bungalow in Austin · ★5.0 · 2 bedrooms · 2 beds · 2 baths,4912454,Ishrat,78702,30.26582,-97.71609,Entire home/apt,300,7,11,2019-09-09,192
+916900,Home in Austin · 2 bedrooms · 2 beds · 1.5 baths,1752578,Kerstin,78702,30.25526,-97.73167,Entire home/apt,425,3,2,2013-03-18,0
+917823,Home in Austin · ★4.96 · 1 bedroom · 2 beds · 1 bath,4918228,Kevin,78757,30.3614,-97.71967,Entire home/apt,50,2,149,2022-09-07,0
+917932,Rental unit in Austin · ★4.73 · 3 bedrooms · 3 beds · 2 baths,4929310,Ryan,78701,30.26584,-97.73999,Entire home/apt,397,1,292,2023-08-27,305
+918204,Home in Austin · ★4.63 · 3 bedrooms · 3 beds · 1 bath,4094761,Laura,78704,30.23656,-97.77935,Entire home/apt,125,2,382,2023-08-24,336
+918617,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,4933902,Lauren & Andrew,78753,30.39562,-97.66868,Private room,164,1,0,,0
+923894,Home in Austin · ★5.0 · 3 bedrooms · 4 beds · 2 baths,3178090,Michael,78702,30.25419,-97.70856,Entire home/apt,450,3,6,2016-03-23,0
+925943,Rental unit in Austin · 2 bedrooms · 1 bed · 2 baths,4981882,Jim,78753,30.37784,-97.68606,Entire home/apt,400,1,0,,0
+925980,Rental unit in Austin · 1 bedroom · 2 beds · 1 bath,3175045,Ryan,78749,30.22547,-97.86482,Private room,5021,3,2,2016-08-30,0
+929974,Townhouse in Austin · ★5.0 · 1 bedroom · 1 bed · 1.5 baths,5008436,Susie,78704,30.23581,-97.78312,Private room,77,2,10,2021-01-31,321
+931667,Rental unit in Austin · ★4.83 · 1 bedroom · 1 bed · 1 bath,3084105,Terry,78704,30.24605,-97.74351,Entire home/apt,300,2,6,2015-03-22,0
+932231,Home in Austin · ★4.97 · 1 bedroom · 1 bed · 1 bath,1335409,Eric,78703,30.27887,-97.75649,Entire home/apt,280,3,66,2023-08-07,312
+933868,Home in Austin · ★4.89 · 2 bedrooms · 2 beds · 1.5 baths,1977547,Katherine,78704,30.24285,-97.7388,Entire home/apt,200,30,9,2023-06-15,301
+934471,Home in Austin · ★5.0 · 1 bedroom · 2 beds · 1 private bath,5041228,Andrea,78701,30.27438,-97.74925,Private room,148,2,3,2017-03-13,0
+935855,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 3 baths,5047533,Amanda,78704,30.24889,-97.76185,Entire home/apt,325,2,6,2022-06-19,0
+936349,Home in Austin · ★4.85 · 1 bedroom · 1 bed · 1 private bath,2121044,J,78729,30.45601,-97.7552,Private room,74,2,41,2017-09-04,363
+937157,Townhouse in Austin · ★4.89 · 3 bedrooms · 3 beds · 2.5 baths,5059228,Haley And Raul,78741,30.24509,-97.73328,Entire home/apt,152,30,100,2023-05-26,244
+939240,Guesthouse in Austin · ★4.87 · 1 bedroom · 1 bed · 1 bath,336136,Michael,78751,30.32034,-97.72185,Entire home/apt,165,90,54,2020-03-28,0
+942734,Home in Austin · ★5.0 · 2 bedrooms · 3 beds · 1 bath,3536176,David,78703,30.27889,-97.76001,Entire home/apt,1000,1,7,2019-03-14,365
+942843,Home in Austin · 3 bedrooms · 3 beds · 2 baths,5099514,Puru,78753,30.38216,-97.67033,Entire home/apt,225,3,1,2013-07-31,358
+942883,Condo in Austin · ★4.85 · 1 bedroom · 1 bed · 1 bath,1343838,Guadalupe,78705,30.29738,-97.73494,Entire home/apt,85,30,198,2023-08-22,89
+944957,Home in Austin · ★4.71 · 5 bedrooms · 6 beds · 4 baths,175317,Carlo,78746,30.28004,-97.79968,Entire home/apt,398,3,22,2023-07-04,148
+946813,Home in Austin · 2 bedrooms · 2 beds · 2 baths,5130794,Rob,78723,30.31371,-97.69227,Entire home/apt,399,5,0,,0
+947412,Home in Austin · ★4.78 · 3 bedrooms · 4 beds · 2 baths,4437388,Stacey,78745,30.20196,-97.79572,Entire home/apt,128,2,58,2023-08-27,65
+947423,Home in Austin · 1 bedroom · 1 bed · 2 baths,5134988,Ben,78702,30.25977,-97.69713,Private room,250,3,0,,0
+949922,Camper/RV in Austin · ★4.89 · 1 bedroom · 1 bed · 1 bath,5152543,Marcella,78723,30.29757,-97.68266,Entire home/apt,75,1,1140,2023-08-24,326
+953071,Loft in Austin · ★4.67 · 1 bedroom · 1 bed · 1 bath,5173278,Luis,78702,30.25981,-97.7185,Entire home/apt,114,1,78,2020-02-28,0
+954116,Guesthouse in Austin · ★4.88 · 1 bedroom · 1 bed · 1 bath,5181843,Amy,78704,30.2441,-97.73885,Entire home/apt,178,2,239,2023-04-01,256
+955612,Home in Austin · ★4.94 · 3 bedrooms · 5 beds · 2.5 baths,5192335,Belinda,78741,30.218309,-97.726532,Entire home/apt,269,2,161,2023-04-16,338
+956708,Rental unit in Austin · ★4.91 · 1 bedroom · 1 bed · 1 bath,5176737,Erika,78751,30.30958,-97.72947,Entire home/apt,75,60,13,2023-08-14,150
+957282,Home in Austin · ★4.93 · 5 bedrooms · 5 beds · 3.5 baths,5202192,Michele,78704,30.25923,-97.78026,Entire home/apt,1000,3,14,2022-11-26,38
+957405,Home in Austin · 1 bedroom · 1 bed,5206723,Jeannette,78746,30.3209,-97.83023,Private room,350,1,0,,0
+959270,Home in Austin · ★4.89 · 1 bedroom · 1 bed · 1 bath,5220633,Esteban,78704,30.25575,-97.76767,Entire home/apt,64,1,336,2023-08-24,85
+959630,Rental unit in Austin · ★4.98 · 1 bedroom · 1 bed · 1 bath,5215945,John And Melissa,78704,30.25473,-97.76774,Entire home/apt,184,4,176,2023-05-15,281
+960315,Home in Austin · ★4.87 · 5 bedrooms · 5 beds · 2 baths,4717260,Tony,78752,30.32398,-97.7161,Entire home/apt,264,2,221,2023-09-03,350
+960376,Home in Austin · ★4.89 · 1 bedroom · 1 bed · 1.5 baths,4845892,Willard,78702,30.27298,-97.71074,Private room,49,2,9,2016-10-09,0
+961883,Rental unit in Austin · ★4.76 · 1 bedroom · 3 beds · 1 bath,3389824,Raquel + Jacob,78701,30.26977,-97.74297,Entire home/apt,750,1,414,2021-11-28,109
+967451,Condo in Austin · ★4.83 · 1 bedroom · 1 bed · 1 bath,5278146,Melanie,78704,30.26269,-97.77509,Entire home/apt,121,2,46,2023-09-05,150
+968817,Campsite in Austin · ★4.89 · 16 beds · 2 baths,1568741,Jim O',78745,30.20901,-97.76891,Entire home/apt,24,2,28,2023-05-07,365
+968844,Home in Austin · ★4.96 · 2 bedrooms · 2 beds · 2 baths,5289039,Christina,78702,30.254005,-97.726784,Entire home/apt,121,3,131,2023-09-04,70
+968883,Cottage in Austin · ★4.64 · 1 bedroom · 1 bed · 1 bath,169512,Charlotte,78704,30.24467,-97.73792,Entire home/apt,178,3,34,2022-06-18,159
+974793,Home in Austin · ★4.60 · 2 bedrooms · 2 beds · 2 baths,997756,Christina,78704,30.25659,-97.75431,Entire home/apt,1000,7,10,2022-11-29,362
+977492,Bungalow in Austin · ★4.90 · 1 bedroom · 1 bed · 1 bath,4725234,Roman,78702,30.25344,-97.72421,Entire home/apt,80,2,612,2023-09-04,68
+977906,Home in Austin · ★4.89 · 1 bedroom · 1 bed · 0 shared baths,5350399,Chris,78705,30.2989,-97.73169,Private room,115,3,9,2022-10-17,362
+978089,Home in Austin · 1 bedroom,5352009,Daniel,78722,30.28573,-97.72013,Private room,200,1,1,2013-03-12,0
+980785,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,4255546,Matt,78705,30.28408,-97.74417,Private room,350,1,0,,0
+981928,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 1 bath,3052973,Randi,78751,30.311936990144,-97.7096239543287,Entire home/apt,91,2,10,2023-09-04,62
+985426,Home in Austin · ★4.97 · 1 bedroom · 1 bed · 1.5 shared baths,1726785,Sid,78702,30.27498,-97.704,Private room,49,30,29,2023-05-30,365
+996332,Home in Austin · ★4.96 · 1 bedroom · 1 bed · 1 private bath,5473957,Susanna,78704,30.25084,-97.75562,Private room,96,2,200,2020-03-09,86
+999823,Rental unit in Austin · ★4.94 · 1 bedroom · 2 beds · 1 bath,6386445,Nan,78704,30.24689,-97.75171,Entire home/apt,119,3,355,2023-06-28,29
+1001303,Home in Austin · ★4.99 · 3 bedrooms · 3 beds · 2 baths,5467931,Jennifer,78757,30.33664,-97.72655,Entire home/apt,280,2,84,2023-05-29,0
+1001673,Home in Austin · ★4.86 · 1 bedroom · 1 bed · 1 private bath,5509090,Ben,78758,30.35706,-97.70871,Private room,80,2,28,2022-12-04,73
+1024597,Home in Austin · ★4.84 · 2 bedrooms · 1 bed · 1 shared bath,5641001,Blair,78701,30.27245,-97.74884,Private room,149,3,89,2020-03-10,0
+1034604,Home in Austin · ★5.0 · 5 bedrooms · 5 beds · 4 baths,5694515,Suzanne,78704,30.26228,-97.77892,Entire home/apt,1071,2,21,2023-05-07,44
+1059128,Home in Austin · ★4.52 · 3 bedrooms · 4 beds · 2 baths,422589,John,78752,30.32983,-97.68575,Entire home/apt,189,2,200,2023-07-30,164
+1079379,Home in Austin · ★4.92 · 1 bedroom · 1 bed · 1 shared bath,5894556,Victoria,78704,30.24112,-97.77302,Private room,67,30,66,2017-10-15,162
+1109489,Home in Austin · ★4.95 · 1 bedroom · 1 bed · 1 private bath,6090278,Tim,78723,30.30474,-97.69467,Private room,250,1,208,2022-10-24,365
+1126920,Home in Austin · ★4.98 · 4 bedrooms · 5 beds · 2 baths,6182474,Ashley,78704,30.24554,-97.75536,Entire home/apt,486,3,307,2023-08-13,315
+1135629,Home in Austin · ★4.83 · 4 bedrooms · 4 beds · 3.5 baths,6229799,Yoav,78702,30.25741,-97.73223,Entire home/apt,780,2,6,2022-03-19,328
+1143126,Rental unit in Austin · 2 bedrooms · 2 beds · 2 baths,6109200,Adeola,78705,30.29418,-97.7348,Entire home/apt,240,1,0,,0
+1144900,Condo in Austin · ★5.0 · 1 bedroom · 1 bed · 1 bath,5520819,Cindy,78704,30.25473,-97.74363,Entire home/apt,64,90,6,2023-06-07,247
+1148536,Home in Austin · ★4.88 · 3 bedrooms · 4 beds · 2.5 baths,802614,Amit,78702,30.25548,-97.73635,Entire home/apt,288,2,331,2023-09-03,326
+1157268,Loft in Austin · ★4.65 · 3 bedrooms · 4 beds · 2 baths,4929310,Ryan,78701,30.26429,-97.74138,Entire home/apt,400,1,221,2023-08-16,306
+1157317,Rental unit in Austin · ★4.64 · 4 bedrooms · 6 beds · 2 baths,4929310,Ryan,78701,30.26632,-97.74129,Entire home/apt,589,1,191,2023-08-06,336
+1162922,Rental unit in Austin · ★4.56 · 2 bedrooms · 2 beds · 1.5 baths,4929310,Ryan,78701,30.26492,-97.74243,Entire home/apt,259,1,216,2023-08-21,323
+1165854,Townhouse in Austin · ★4.65 · 1 bedroom · 1 bed · 1 bath,5766765,Holly,78704,30.25592,-97.75639,Entire home/apt,65,20,40,2023-06-27,5
+1182544,Rental unit in Austin · ★4.95 · 1 bedroom · 1 bed · 1 bath,6469089,Jeff,78731,30.32702,-97.76043,Entire home/apt,132,3,170,2022-05-15,130
+1195493,Home in Austin · ★4.96 · 1 bedroom · 1 bed · 1.5 baths,1927941,Nicky,78702,30.27677,-97.7183,Private room,89,3,201,2023-06-12,9
+1197928,Home in Austin · 3 bedrooms · 3 beds · 2 baths,6458257,Marty,78745,30.21723,-97.79961,Entire home/apt,250,2,0,,0
+1213690,Bungalow in Austin · ★4.95 · 3 bedrooms · 3 beds · 2 baths,2436512,Crystal,78702,30.25766,-97.72323,Entire home/apt,257,1,620,2023-08-27,250
+1242559,Bungalow in Austin · ★4.56 · 2 bedrooms · 3 beds · 1 bath,582827,Troy,78731,30.32006,-97.75067,Entire home/apt,300,30,9,2017-10-09,173
+1255816,Guesthouse in Austin · ★4.90 · 1 bedroom · 1 bed · 1 bath,427519,Anne,78704,30.24357,-97.74217,Entire home/apt,98,1,613,2023-08-26,40
+1278532,Guesthouse in Austin · ★4.91 · 1 bedroom · 1 bed · 1 bath,2436512,Crystal,78702,30.25635,-97.72405,Entire home/apt,129,1,739,2023-08-20,263
+1284787,Home in Austin · ★5.0 · 3 bedrooms · 1 bed · 2 baths,2910256,Lewis,78745,30.2278564383808,-97.7991715120046,Entire home/apt,721,2,5,2023-07-23,89
+1286773,Rental unit in Austin · ★5.0 · 1 bedroom · 2 beds · 1 bath,2999857,Pascal,78722,30.2922604275222,-97.7112671758014,Entire home/apt,146,2,8,2023-09-04,154
+1296548,Home in Austin · ★4.57 · 2 bedrooms · 4 beds · 2.5 baths,4035731,Matt & Amy,78723,30.29379,-97.68572,Entire home/apt,190,28,9,2022-02-24,348
+1307181,Home in Austin · ★4.90 · 2 bedrooms · 2 beds · 1 bath,4882441,Valentina,78704,30.26316,-97.76453,Entire home/apt,257,3,20,2023-06-20,103
+1317291,Home in Austin · ★4.84 · 1 bedroom · 1 bed · 1 bath,1742462,Jacob,78702,30.2525,-97.71672,Entire home/apt,175,30,148,2022-08-31,0
+1321453,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,7090261,Brendan,78741,30.2281,-97.72656,Private room,234,1,0,,0
+1327668,Home in Austin · ★4.94 · 1 bedroom · 2 beds · 1 private bath,739362,Barbara,78757,30.33974,-97.74574,Private room,91,2,193,2023-04-21,0
+1342654,Home in Austin · ★4.74 · 1 bedroom · 1 bed · 1 bath,7281438,Lawrence,78704,30.25974,-97.75369,Entire home/apt,108,3,181,2023-09-04,223
+1343707,Home in Austin · ★4.90 · 5 bedrooms · 7 beds · 3.5 baths,7284062,Anita,78746,30.31498,-97.80123,Entire home/apt,775,3,67,2023-05-22,337
+1349780,Home in Austin · ★4.91 · 4 bedrooms · 7 beds · 3.5 baths,7323557,Katie,78735,30.25285,-97.83055,Entire home/apt,499,30,47,2021-08-13,252
+1388265,Home in Austin · ★4.95 · 4 bedrooms · 6 beds · 3 baths,739362,Barbara,78757,30.33892,-97.74536,Entire home/apt,364,3,202,2023-08-14,294
+1391406,Home in Austin · ★4.97 · 1 bedroom · 1 bed · 1 private bath,207976,Mark,78741,30.21971,-97.72651,Private room,72,3,35,2023-03-04,102
+1397983,Guest suite in Austin · ★4.77 · 2 bedrooms · 1 bed · 1 bath,7547072,Kathleen,78704,30.24813,-97.79337,Entire home/apt,150,2,22,2022-10-30,351
+1398635,Cottage in Austin · ★4.92 · Studio · 1 bed · 1 bath,7386854,Lindsey,78705,30.3,-97.74368,Entire home/apt,96,2,326,2023-09-04,305
+1401705,Home in Austin · ★4.90 · 1 bedroom · 1 bed · 1 shared bath,7567467,Chalu,78752,30.32674,-97.68213,Private room,39,1,271,2023-07-04,0
+1428582,Home in Austin · ★4.90 · 5 bedrooms · 13 beds · 4.5 baths,814883,Kristen,78702,30.26602,-97.73134,Entire home/apt,293,1,303,2023-08-24,322
+1428998,Rental unit in Austin · ★New · Studio · 1 bed · 1 bath,7684479,Christine,78744,30.1437808727776,-97.7158675212082,Entire home/apt,99,2,0,,157
+1441538,Home in Austin · 4 bedrooms · 4 beds · 3.5 baths,6932708,Blake,78703,30.29012,-97.7623,Entire home/apt,1750,3,1,2021-07-31,364
+1461266,Guesthouse in Austin · ★4.89 · 1 bedroom · 1 bed · 1 bath,578211,Pete,78751,30.30247,-97.72771,Entire home/apt,99,20,74,2023-07-19,365
+1462311,Home in Austin · ★4.95 · 1 bedroom · 1 bed · 1 bath,740347,Chris,78704,30.24668,-97.75618,Entire home/apt,144,1,1141,2023-09-03,315
+1462557,Rental unit in Austin · ★4.91 · 1 bedroom · 1 bed · 1 bath,7838294,Sara,78757,30.34042,-97.7463,Entire home/apt,96,2,181,2023-08-17,114
+1484462,Guesthouse in Austin · ★4.96 · 1 bedroom · 1 bed · 1 bath,7857883,Steve,78704,30.25039,-97.77751,Entire home/apt,115,2,300,2022-03-13,0
+1499714,Rental unit in Austin · ★4.79 · Studio · 1 bed · 1 bath,8014187,Shannon,78702,30.26035,-97.7348,Entire home/apt,118,1,593,2023-08-31,280
+1502213,Guesthouse in Austin · ★4.92 · Studio · 1 bed · 1 bath,8026447,Pete,78704,30.22784,-97.76439,Entire home/apt,73,30,13,2023-07-07,328
+1507941,Guesthouse in Austin · ★4.97 · 1 bedroom · 3 beds · 1 bath,8054740,Christopher,78722,30.28602,-97.71552,Entire home/apt,185,2,132,2020-09-20,0
+1542596,Home in Austin · 1 bedroom · 1 bed · 1 bath,8221829,Dan,78704,30.25518,-97.76426,Private room,500,1,0,,0
+1542779,Home in Austin · ★4.87 · 1 bedroom · 1 bed · 1 shared bath,7567467,Chalu,78752,30.32674,-97.68213,Private room,49,1,304,2023-08-19,9
+1561778,Home in Austin · ★5.0 · 3 bedrooms · 4 beds · 2 baths,7281978,Joan,78759,30.37038,-97.7458,Entire home/apt,250,30,3,2015-08-16,263
+1570491,Loft in Austin · ★4.47 · 2 bedrooms · 2 beds · 1 bath,4929310,Ryan,78701,30.26491,-97.74074,Entire home/apt,259,1,242,2023-07-31,305
+1574481,Home in Austin · ★4.95 · 2 bedrooms · 2 beds · 2 baths,8368983,Albert & Meg,78702,30.25561,-97.73486,Entire home/apt,270,3,45,2023-03-16,325
+1576290,Home in Austin · 1 bedroom · 1 bed · 1 bath,8223285,Ronald,78748,30.18933,-97.82398,Private room,115,1,0,,0
+1577342,Guesthouse in Austin · ★4.90 · Studio · 1 bed · 1 bath,8384474,Erin,78702,30.28019,-97.71366,Entire home/apt,67,2,310,2023-09-04,1
+1578787,Home in Austin · 2 bedrooms · 2 beds · 1 bath,8395205,Andrew,78702,30.27519,-97.72981,Entire home/apt,425,1,1,2014-03-12,365
+1579405,Home in Austin · ★4.85 · 3 bedrooms · 7 beds · 2.5 baths,499072196,Lisa,78702,30.2711904316722,-97.7086625148923,Entire home/apt,154,3,234,2023-07-08,312
+1586879,Rental unit in Austin · Studio · 1 bed · 1 bath,6591320,Mary-Margaret,78704,30.23853,-97.78621,Entire home/apt,175,1,0,,0
+1592065,Guest suite in Austin · ★4.82 · 1 bedroom · 1 bed · 1 bath,8289500,Desirae,78704,30.24713,-97.76286,Entire home/apt,389,3,73,2023-09-04,75
+1593451,Guesthouse in Austin · ★4.92 · 1 bedroom · 1 bed · 1 bath,8495321,Rebecca,78704,30.24884,-97.77593,Entire home/apt,98,3,271,2023-09-04,142
+1594441,Condo in Austin · ★4.79 · 2 bedrooms · 3 beds · 1 bath,5138696,Jodi,78705,30.28761,-97.72626,Entire home/apt,155,30,30,2023-05-28,269
+1599035,Home in Austin · ★4.88 · 4 bedrooms · 9 beds · 2 baths,172182,Brian & Leah,78704,30.23835,-97.75557,Entire home/apt,423,2,270,2023-08-18,93
+1608290,Home in Austin · 3 bedrooms · 4 beds · 2 baths,5453757,Fran,78704,30.25177,-97.76923,Entire home/apt,1100,3,0,,0
+1608994,Guesthouse in Austin · ★4.93 · 2 bedrooms · 2 beds · 1 bath,578211,Pete,78751,30.30285,-97.7278,Entire home/apt,137,20,90,2023-07-31,271
+1612438,Home in Austin · ★4.92 · 2 bedrooms · 3 beds · 1 bath,8584307,Nellie,78704,30.25246,-97.74848,Entire home/apt,152,2,86,2023-08-20,249
+1615143,Home in Austin · ★New · 1 bedroom · 1 bed · 1 private bath,8597490,Sharon,78735,30.2532583102492,-97.8770187509123,Private room,35,30,0,,249
+1618754,Bed and breakfast in Austin · ★4.75 · 1 bedroom · 1 bed · 1 bath,8612372,Martha,78731,30.36539,-97.75179,Private room,100,1,8,2018-10-28,0
+1627417,Guesthouse in Austin · ★4.92 · 2 bedrooms · 2 beds · 1 bath,1514891,Nell,78738,30.30779,-97.98466,Entire home/apt,135,2,139,2023-09-03,304
+1640231,Guest suite in Austin · ★4.87 · 1 bedroom · 1 bed · 1 bath,8708918,Jamie And Aja,78702,30.25463,-97.7151,Entire home/apt,98,3,254,2023-08-13,57
+1641751,Guesthouse in Austin · ★4.92 · 2 bedrooms · 3 beds · 1 bath,8716539,Eric & Erin,78704,30.2432,-97.76651,Entire home/apt,134,2,418,2023-09-04,258
+1654316,Bungalow in Austin · ★4.85 · 2 bedrooms · 2 beds · 1 bath,8771676,Julia (And Johnny),78702,30.26868,-97.72182,Entire home/apt,350,30,27,2022-03-16,218
+1664692,Guesthouse in Austin · ★4.96 · 1 bedroom · 1 bed · 1 private bath,8816698,Michelle,78703,30.29035,-97.75672,Private room,122,1,179,2023-08-07,328
+1673142,Home in West Lake Hills · ★4.98 · 5 bedrooms · 6 beds · 4 baths,6253447,Karen,78746,30.2774,-97.79235,Entire home/apt,1008,3,48,2023-03-14,86
+1677516,Home in Austin · ★4.88 · 1 bedroom · 1 bed · 1 bath,8874960,Tatiana,78734,30.37567,-97.91709,Private room,48,1,16,2017-05-24,0
+1681072,Home in Austin · ★4.95 · 4 bedrooms · 5 beds · 3 baths,7982442,Chris And Vanessa,78704,30.2583729123466,-97.7766210132179,Entire home/apt,626,2,205,2023-09-10,194
+1683574,Bungalow in Austin · ★4.94 · 2 bedrooms · 2 beds · 1 bath,578211,Pete,78751,30.30085,-97.72903,Entire home/apt,120,20,83,2023-07-24,335
+1692542,Rental unit in Austin · ★5.0 · 2 bedrooms · 2 beds · 1.5 baths,1726978,Benjamin,78704,30.23896,-97.75019,Entire home/apt,140,29,6,2020-08-23,0
+1698089,Condo in Austin · ★4.90 · 2 bedrooms · 1 bed · 1 bath,8967238,Heidi,78701,30.27094,-97.74783,Entire home/apt,127,30,50,2023-05-12,331
+1699415,Rental unit in Austin · ★4.94 · 1 bedroom · 1 bed · 1 bath,8973365,Inger,78704,30.25945,-97.77363,Entire home/apt,150,2,90,2023-07-31,279
+1703216,Guesthouse in Austin · ★4.98 · 1 bedroom · 1 bed · 1 bath,1232812,Brian And Meredith,78704,30.2551,-97.76869,Entire home/apt,225,3,132,2023-03-12,331
+1704436,Bungalow in Austin · ★4.95 · 2 bedrooms · 2 beds · 1 bath,8428581,Brunson,78704,30.24736,-97.7448,Entire home/apt,216,2,252,2023-07-22,211
+1704832,Home in Austin · ★4.73 · 2 bedrooms · 2 beds · 1 bath,175669,Rachel,78704,30.24413,-97.77768,Entire home/apt,150,30,15,2019-04-14,363
+1706466,Condo in Austin · ★4.92 · 1 bedroom · 1 bed · 1 private bath,9005567,Lori,78704,30.23822,-97.74897,Private room,78,3,27,2023-09-04,85
+1712329,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,9031314,Dylan,78749,30.23127,-97.82364,Entire home/apt,300,1,0,,0
+1717090,Townhouse in Austin · ★4.33 · 2 bedrooms · 2 beds · 2 baths,9053200,Linda,78703,30.27637,-97.75388,Entire home/apt,232,30,41,2023-03-14,358
+1720604,Home in Austin · ★4.95 · 4 bedrooms · 4 beds · 2.5 baths,9035884,Elissa,78746,30.2684,-97.80208,Entire home/apt,528,2,44,2023-07-08,0
+1725159,Guesthouse in Austin · 2 bedrooms · 2 beds · 1 bath,9093395,Cody,78704,30.24124,-97.77896,Entire home/apt,110,90,0,,362
+1725964,Home in Austin · ★4.91 · 3 bedrooms · 3 beds · 2 baths,4435121,Forrest,78702,30.25275,-97.72538,Entire home/apt,291,7,35,2016-02-16,0
+1727257,Bungalow in Austin · ★4.95 · 1 bedroom · 1 bed · 1 private bath,4912454,Ishrat,78702,30.26545,-97.71687,Private room,96,2,79,2023-06-24,339
+1728927,Home in Austin · ★4.84 · 2 bedrooms · 3 beds · 2.5 baths,8142606,Martha Elena,78702,30.26674,-97.71776,Entire home/apt,250,3,27,2023-05-08,348
+1731755,Home in Austin · ★4.90 · 2 bedrooms · 1 bed · 1 bath,9123693,Joy,78745,30.22092,-97.78239,Private room,106,3,10,2015-10-30,0
+1733137,Guesthouse in Austin · ★4.97 · 1 bedroom · 2 beds · 1 bath,9131066,Laura,78704,30.25826,-97.76439,Entire home/apt,130,2,218,2023-08-19,67
+1736648,Rental unit in Austin · ★4.55 · 3 bedrooms · 3 beds · 2 baths,4929310,Ryan,78701,30.26582,-97.74074,Entire home/apt,399,1,231,2023-08-21,332
+1737139,Guest suite in Austin · ★4.92 · 1 bedroom · 2 beds · 1 bath,1628864,Michael & Luz,78704,30.25822,-97.7748,Entire home/apt,105,2,256,2023-07-15,192
+1737270,Guest suite in Austin · ★4.67 · 1 bedroom · 1 bed · 1 bath,8219026,Benjamin,78722,30.28751,-97.70724,Entire home/apt,51,7,238,2022-03-21,75
+1746957,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,9194023,Natalie,78759,30.40348,-97.74316,Entire home/apt,400,1,0,,0
+1751718,Home in Austin · ★4.83 · 2 bedrooms · 3 beds · 1 bath,2157243,Sean,78704,30.25279,-97.77527,Entire home/apt,183,2,98,2023-07-22,216
+1755240,Loft in Austin · ★4.70 · 4 bedrooms · 5 beds · 3 baths,4929310,Ryan,78701,30.26439,-97.74026,Entire home/apt,596,1,199,2023-08-27,314
+1781521,Home in Austin · 1 bedroom · 1 bed · 1 bath,9351276,Chelsey,78704,30.23881,-97.77685,Private room,100,1,2,2014-01-21,0
+1793471,Home in Austin · ★4.95 · 3 bedrooms · 3 beds · 2 baths,7637276,Steven,78704,30.25258,-97.76014,Entire home/apt,601,2,115,2023-08-17,166
+1795965,Home in Austin · ★4.90 · 2 bedrooms · 2 beds · 1 bath,9419950,Wade,78702,30.27679,-97.71519,Entire home/apt,139,2,162,2023-09-07,312
+1802053,Home in Austin · ★4.79 · 4 bedrooms · 7 beds · 2 baths,8634478,Jennifer,78702,30.26015,-97.73241,Entire home/apt,264,2,24,2018-08-06,0
+1803353,Home in Austin · ★4.89 · 3 bedrooms · 3 beds · 2 baths,9454445,Jordana,78701,30.2756404876709,-97.7483596801758,Entire home/apt,356,1,28,2023-08-20,310
+1805494,Rental unit in Austin · ★4.87 · Studio · 2 beds · 1 bath,9463145,Joi,78704,30.2577,-97.7675,Entire home/apt,150,2,62,2023-08-27,121
+1814899,Rental unit in Austin · ★4.83 · 2 bedrooms · 3 beds · 1.5 baths,9506147,Justin,78703,30.27679,-97.75108,Entire home/apt,650,3,7,2016-03-15,0
+1822588,Home in Austin · ★4.78 · 3 bedrooms · 3 beds · 1 bath,1827958,Bryce And Rachael,78702,30.25995,-97.72878,Entire home/apt,198,1,372,2023-08-27,95
+1825193,Home in Austin · ★5.0 · 1 bedroom · 1 bed · 1 private bath,1714345,Ginger,78745,30.20794,-97.79201,Private room,80,2,39,2023-09-04,354
+1826078,Home in Austin · 1 bedroom · 1 bed · 1 bath,9555506,Paige,78704,30.2458,-97.76507,Private room,305,1,0,,0
+1827913,Home in Austin · 3 bedrooms · 2 beds · 2 baths,8650410,Bill,78745,30.21065,-97.80815,Entire home/apt,450,1,0,,0
+1830545,Home in Austin · ★4.83 · 2 bedrooms · 2 beds · 1 bath,487072,Greg & Amanda,78757,30.3603,-97.72571,Entire home/apt,172,45,54,2023-08-21,319
+1831035,Home in Austin · ★4.89 · 3 bedrooms · 5 beds · 2 baths,9576720,Tracen,78703,30.27763,-97.75986,Entire home/apt,441,2,72,2023-03-19,4
+1836617,Home in Austin · ★5.0 · 8 bedrooms · 12 beds · 4.5 baths,9601914,Natalie,78736,30.23749,-97.88265,Entire home/apt,1403,2,39,2022-05-22,334
+1843753,Home in Austin · ★4.78 · 3 bedrooms · 2 beds · 1 bath,5502116,Trey,78704,30.22623,-97.76546,Entire home/apt,289,3,9,2017-10-16,0
+1850914,Home in Austin · ★4.91 · 1 bedroom · 1 bed · 1 private bath,9666649,Robert And Inge,78704,30.24679,-97.7886,Private room,125,2,11,2022-05-08,336
+1854638,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,9075763,Miles,78703,30.28793,-97.77076,Entire home/apt,350,1,0,,0
+1854758,Home in Austin · ★4.80 · 4 bedrooms · 3 beds · 1 bath,3752014,Kirsten,78735,30.23764,-97.80746,Entire home/apt,236,2,5,2018-10-10,0
+1860352,Bungalow in Austin · ★4.95 · 2 bedrooms · 2 beds · 1 bath,9704934,Shawna,78703,30.29287,-97.76315,Entire home/apt,171,4,130,2023-08-25,301
+1865762,Home in Austin · 1 bedroom · 1 bed · 1 bath,9728400,Justin,78732,30.34736,-97.91259,Private room,155,1,0,,0
+1875121,Guesthouse in Austin · ★4.94 · 1 bedroom · 2 beds · 1 bath,3715137,Melissa,78702,30.2678,-97.73078,Entire home/apt,125,2,455,2023-09-04,94
+1880094,Guesthouse in Austin · ★4.94 · Studio · 2 beds · 1 bath,61292,Jeany,78702,30.2518,-97.72129,Entire home/apt,91,1,830,2023-08-21,85
+1887570,Loft in Austin · 2 bedrooms · 3 beds · 2 baths,9797006,Russell,78703,30.26975,-97.75081,Entire home/apt,764,3,2,2022-11-14,359
+1892933,Home in Austin · ★4.91 · 3 bedrooms · 5 beds · 1.5 baths,8597490,Sharon,78732,30.3466,-97.87423,Entire home/apt,300,2,142,2023-08-13,340
+1900496,Home in Austin · 2 bedrooms · 2 beds · 2 baths,6090278,Tim,78723,30.30679,-97.69458,Entire home/apt,800,14,0,,358
+1901790,Rental unit in Austin · ★4.63 · 1 bedroom · 2 beds · 1 bath,4753546,Paprika,78702,30.25408,-97.72073,Entire home/apt,110,30,40,2023-09-01,103
+1913498,Home in Austin · ★4.98 · 1 bedroom · 2 beds · 1.5 baths,247600,Danielle,78702,30.27321,-97.728,Entire home/apt,169,2,43,2023-07-30,292
+1919207,Home in Austin · 1 bedroom · 2 beds · 1 bath,9586902,Mathew,78745,30.21346,-97.81583,Private room,150,1,0,,0
+1927188,Bungalow in Austin · ★4.67 · 2 bedrooms · 2 beds · 1 bath,9983041,Fiore,78721,30.26816,-97.68658,Entire home/apt,400,4,3,2022-10-23,364
+1928538,Home in Austin · ★3.71 · 1 bedroom · 1 bed · 1 private bath,9988390,G Scott,78751,30.31923,-97.72173,Private room,70,2,7,2019-03-18,0
+1929377,Home in Austin · ★4.98 · 1 bedroom · 1 bed · 1 private bath,1421618,Diana,78729,30.46288,-97.78595,Private room,52,2,54,2018-10-08,0
+1934911,Guesthouse in Austin · ★4.76 · 1 bedroom · 1 bed · 1 bath,5279293,Frank And Katie,78702,30.27699,-97.70816,Entire home/apt,72,14,109,2020-07-31,0
+1935282,Cottage in Austin · ★4.95 · 1 bedroom · 2 beds · 1 bath,4018268,Bradley,78702,30.28092,-97.71169,Entire home/apt,132,1,586,2023-08-27,234
+1954417,Home in Austin · ★4.96 · 1 bedroom · 1 bed · 1 private bath,574394,Theresa,78723,30.31245,-97.69874,Private room,110,30,159,2023-05-08,128
+1979797,Home in Austin · ★5.0 · 4 bedrooms · 6 beds · 3.5 baths,10217229,Abraham,78703,30.29158,-97.7682,Entire home/apt,520,24,5,2023-07-03,103
+1990225,Rental unit in Austin · ★3.67 · 1 bedroom · 2 beds · 1 bath,890453,Vyjayanthi,78704,30.23974,-97.78969,Private room,179,2,3,2014-01-05,0
+1997625,Guesthouse in Austin · ★4.85 · Studio · 1 bed · 1 bath,10293287,Ann,78705,30.29805,-97.73215,Entire home/apt,121,1,103,2023-08-06,332
+2010358,Tiny home in Austin · ★4.83 · 2 beds · 1 bath,2157243,Sean,78703,30.27835,-97.76208,Entire home/apt,102,2,408,2023-09-04,155
+2038344,Home in Austin · ★4.88 · 3 bedrooms · 3 beds · 2.5 baths,10457194,Tanya,78748,30.17146,-97.81726,Entire home/apt,161,1,32,2023-09-04,152
+2045501,Home in Austin · ★5.0 · 3 bedrooms · 3 baths,10487205,Kirk And Linley,78702,30.25789,-97.72371,Entire home/apt,975,3,5,2019-04-06,89
+2048537,Home in Austin · ★5.0 · 4 bedrooms · 4 beds · 3 baths,10500741,Molly,78703,30.27521,-97.7591,Entire home/apt,557,3,75,2023-05-15,305
+2049254,Rental unit in Austin · ★4.85 · 1 bedroom · 1 bed · 1 bath,10503694,Christina,78703,30.29234,-97.75876,Entire home/apt,81,30,198,2021-06-01,0
+2056845,Home in Austin · ★4.95 · 2 bedrooms · 2 beds · 2 baths,1518835,Russ,78704,30.25132,-97.75794,Entire home/apt,375,29,19,2023-03-10,314
+2057533,Rental unit in Austin · ★4.67 · 1 bedroom · 1 bed · 1 bath,4952321,Jami,78704,30.2404,-97.78635,Entire home/apt,123,2,3,2015-10-12,0
+2069683,Home in Austin · 4 bedrooms · 5 beds · 3.5 baths,4421862,James,78746,30.27611,-97.80369,Entire home/apt,750,1,2,2023-07-22,0
+2098455,Home in Austin · ★4.82 · 2 bedrooms · 3 beds · 1 bath,5367671,Jeremy,78702,30.25748,-97.72515,Entire home/apt,166,3,122,2023-09-03,49
+2104280,Home in Austin · ★4.83 · 3 bedrooms · 5 beds · 3 baths,1488733,Vacasa Texas,78704,30.2431,-97.75928,Entire home/apt,405,2,98,2023-04-11,354
+2124726,Home in Austin · ★4.95 · 4 bedrooms · 7 beds · 2 baths,198626486,Courtney,78702,30.27248,-97.72275,Entire home/apt,650,3,63,2023-07-31,7
+2126912,Townhouse in Austin · 3 bedrooms · 3 beds · 2.5 baths,1609994,Brennen & Sierra,78702,30.26999,-97.72963,Entire home/apt,590,2,2,2016-01-10,0
+2130032,Home in Austin · ★4.54 · 2 bedrooms · 3 beds · 1 bath,10694081,James,78722,30.28296,-97.71739,Entire home/apt,149,2,72,2023-02-26,0
+2138690,Home in Austin · ★4.98 · 2 bedrooms · 1 bed · 1.5 baths,1421618,Diana,78729,30.46514,-97.78487,Private room,50,2,49,2018-10-08,0
+2138750,Home in Austin · ★5.0 · 6 bedrooms · 6 beds · 3.5 baths,1421618,Diana,78729,30.46291,-97.78598,Entire home/apt,385,2,18,2019-03-24,0
+2139352,Home in Austin · ★4.63 · 2 bedrooms · 3 beds · 2 baths,2497240,Natasha,78702,30.2514,-97.71626,Entire home/apt,189,2,25,2023-07-04,78
+2141987,Home in Austin · ★5.0 · 3 bedrooms · 3 beds · 3.5 baths,9463145,Joi,78704,30.25703,-97.7676,Entire home/apt,1500,3,3,2018-03-11,154
+2149362,Home in Austin · 1 bedroom · 1 bed · 1 bath,1681866,Allyson,78745,30.20274,-97.81398,Private room,100,30,1,2018-12-30,0
+2168813,Home in Austin · ★4.90 · 3 bedrooms · 3 beds · 2.5 baths,5106595,Mary,78704,30.2508,-97.7772,Entire home/apt,575,3,21,2021-07-10,358
+2174970,Home in Austin · ★4.91 · 4 bedrooms · 6 beds · 2.5 baths,3820555,Justin&Becca,78702,30.26245,-97.73316,Entire home/apt,464,2,336,2023-09-04,326
+2183136,Home in Austin · 4 bedrooms · 4 beds · 4 baths,750379,Teresa & Rino,78704,30.24848,-97.75533,Entire home/apt,5000,30,0,,365
+2187256,Home in Austin · ★4.96 · 1 bedroom · 2 beds · 1 bath,11152728,Jon,78702,30.278,-97.70499,Private room,95,2,26,2018-05-19,0
+2189688,Condo in Austin · 1 bedroom · 2 beds · 1 bath,11167488,Timothy,78702,30.25956,-97.72919,Entire home/apt,479,6,1,2015-03-23,362
+2198635,Condo in Austin · ★4.91 · 2 bedrooms · 3 beds · 1.5 baths,11215879,Barton,78731,30.3499,-97.75049,Entire home/apt,199,2,77,2023-07-09,337
+2200205,Guest suite in Austin · ★4.90 · 1 bedroom · 1 bed · 1 bath,6386445,Nan,78704,30.24689,-97.75171,Entire home/apt,113,3,186,2023-07-31,47
+2208270,Home in Austin · ★4.97 · 2 bedrooms · 2 beds · 1 bath,11263914,David,78722,30.29395,-97.71336,Entire home/apt,146,5,187,2023-05-02,35
+2223634,Home in Austin · ★4.91 · 2 bedrooms · 2 beds · 1.5 baths,80406,Dani,78704,30.24572,-97.74816,Entire home/apt,188,3,324,2023-08-22,139
+2227127,Home in Austin · ★5.0 · 2 bedrooms · 3 beds · 1 bath,11365421,Jayne,78751,30.30806,-97.71621,Entire home/apt,122,2,23,2023-09-02,131
+2227288,Rental unit in Austin · 1 bedroom · 1 bed · 1 bath,11366658,Atif,78746,30.25611,-97.79028,Private room,102,3,2,2014-10-15,0
+2227564,Loft in Austin · 1 bedroom · 1 bed · 1 bath,11367937,Steph,78722,30.28887,-97.71731,Entire home/apt,700,2,0,,0
+2231056,Guesthouse in Austin · ★4.96 · 1 bedroom · 1 bed · 1 bath,11387520,John,78704,30.24888,-97.77176,Entire home/apt,101,2,178,2020-03-12,0
+2236988,Home in Austin · ★4.80 · 5 bedrooms · 7 beds · 4 baths,11421571,Curtis,78746,30.275,-97.84196,Entire home/apt,1200,3,5,2016-03-18,0
+2248559,Home in Austin · ★4.93 · 4 bedrooms · 6 beds · 2 baths,487072,Greg & Amanda,78759,30.40668,-97.73347,Entire home/apt,400,45,146,2023-04-24,255
+2250253,Home in Austin · 2 bedrooms · 3 beds · 1.5 baths,627048,Lisa,78756,30.32401,-97.73312,Entire home/apt,200,3,1,2016-03-22,0
+2254118,Bungalow in Austin · ★5.0 · 3 bedrooms · 3 beds · 2 baths,11511343,Jayce,78723,30.29952,-97.67369,Entire home/apt,200,2,16,2023-08-21,0
+2254712,Rental unit in Austin · ★4.99 · 2 bedrooms · 2 beds · 1 bath,11514096,Cynthia & Bobby,78703,30.29133,-97.76049,Entire home/apt,199,1,527,2023-08-17,313
+2266768,Guesthouse in Austin · ★4.84 · 1 bedroom · 1 bed · 1 bath,1507234,Kristine,78702,30.27435,-97.72533,Entire home/apt,110,1,776,2023-09-04,19
