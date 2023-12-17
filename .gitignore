@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Ignore data file 
+data/airbnb.json
+data/airbnb.csv
+
+# IDE-specific files
+.vscode/
+*.idea/
+*.iml
+*.pyc
+
+# Other
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
