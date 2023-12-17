@@ -1,76 +1,80 @@
-from flask import Flask, request, jsonify
-from utils.data_handler import read_data, write_data 
+import unittest
+import json
+from app import app
 
-app = Flask(__name__)
+class TestEndpoints(unittest.TestCase):
+    def setUp(self):
+        # Set up a test client
+        self.app = app.test_client()
+        self.app.testing = True
+    
+    # GET Endpoints
+    def test_get_all_listings_success(self):
+        response = self.app.get('/listings')
+        self.assertEqual(response.status_code, 200)
 
-data_file_path = 'data/airbnb.json'
+    def test_get_listing_by_id_success(self):
+        response = self.app.get('/listings/1')
+        self.assertEqual(response.status_code, 200)
+    
+    def test_get_listing_by_id_not_found(self):
+        response = self.app.get('/listings/1000')
+        self.assertEqual(response.status_code, 404)
 
-#initial data
-listings_data = read_data(data_file_path)
+    def test_get_listings_by_query_success(self):
+        response = self.app.get('/listings?price_gt=100')
+        self.assertEqual(response.status_code, 200)
 
-#GET Endpoints
-@app.route('/listings', methods=['GET'])
-def get_all_listings():
-    return jsonify(listings_data)
+    # POST Endpoint
+    def test_create_listing_success(self):
+        new_listing = {
+           "id": 3890,
+           "name": "Jimmy John House84 · 1 bedroom · 2 beds · 1 bath",
+           "host_id": 4567,
+           "host_name": "John Lincon",
+           "neighbourhood": 73456,
+           "latitude": "56.26234",
+           "longitude": "-67.73441",
+           "room_type": "Entire home/apt",
+           "price": 176,
+           "minimum_nights": 7,
+           "number_of_reviews": 667,
+           "last_review": "2022-05-17",
+           "availability_365": 245
+        }
+        response = self.app.post('/listings', data=json.dumps(new_listing), content_type='application/json')
+        self.assertEqual(response.status_code, 201)
 
-#Based on Id , records are extracted
-@app.route('/listings/<int:listing_id>', methods=['GET'])
-def get_listing_by_id(listing_id):
-    listing = next((item for item in listings_data if item['id'] == listing_id), None)
-    if listing:
-        return jsonify(listing)
-    return jsonify({'error': 'Listing not found'}), 404
+    def test_create_listing_missing_data(self):
+        # Test with incomplete data
+        incomplete_listing = {
+            "name": "Incomplete Listing",
+            "price": 150,
+            "neighborhood": "Test Neighborhood",
+        }
+        response = self.app.post('/listings', data=json.dumps(incomplete_listing), content_type='application/json')
+        self.assertEqual(response.status_code, 400)
 
-#Based on query , records are given
-# Example: /listings?price_gt=500&neighbor=ABC
-@app.route('/listings', methods=['GET'])
-def get_listings_by_query():
-    query_params = request.args
-    filtered_listings = filter_listings(query_params)
-    return jsonify(filtered_listings)
+    # PATCH Endpoint
+    def test_update_listing_success(self):
+        listing_id = 1  # Assuming this ID exists in the test data
+        updated_data = {"price": 200}
+        response = self.app.patch(f'/listings/{listing_id}', data=json.dumps(updated_data), content_type='application/json')
+        self.assertEqual(response.status_code, 200)
 
-#Based on filters, ecords are retreived
-def filter_listings(query_params):
-    filtered_listings = listings_data
-    for key, value in query_params.items():
-        filtered_listings = [item for item in filtered_listings if str(item.get(key)) == value]
-    return filtered_listings
+    def test_update_listing_not_found(self):
+        response = self.app.patch('/listings/1000', data=json.dumps({"price": 200}), content_type='application/json')
+        self.assertEqual(response.status_code, 404)
+    
+     # DELETE Endpoint
+    def test_delete_listing_success(self):
+        listing_id = 1  
+        response = self.app.delete(f'/listings/{listing_id}')
+        self.assertEqual(response.status_code, 200)
 
-# POST Endpoint
-@app.route('/listings', methods=['POST'])
-def create_listing():
-    new_listing = request.json
-    new_listing['id'] = len(listings_data) + 1
-    listings_data.append(new_listing)
-    write_data(listings_data, data_file_path)
-    return jsonify(new_listing), 201
-
-@app.route('/listing/search', methods=['POST'])
-def search_listings():
-    search_terms = request.json
-    search_results = []
-    for term in search_terms:
-        search_results.extend([item for item in listings_data if term.lower() in item['name'].lower()])
-    return jsonify(search_results)
-
-#PATCH Endpoint
-@app.route('/listings/<int:listing_id>', methods=['PATCH'])
-def update_listing(listing_id):
-    listing = next((item for item in listings_data if item['id'] == listing_id), None)
-    if listing:
-        updated_data = request.json
-        listing.update(updated_data)
-        write_data(listings_data, data_file_path)
-        return jsonify(listing)
-    return jsonify({'error': 'Listing not found'}), 404
-
-#DELETE Endpoint
-@app.route('/listings/<int:listing_id>', methods=['DELETE'])
-def delete_listing(listing_id):
-    global listings_data
-    listings_data = [item for item in listings_data if item['id'] != listing_id]
-    write_data(listings_data, data_file_path)
-    return jsonify({'message': 'Listing deleted successfully'})
+    def test_delete_listing_not_found(self):
+        response = self.app.delete('/listings/1000')
+        self.assertEqual(response.status_code, 404)
 
 if __name__ == '_main_':
-    app.run(debug=True)
+    unittest.main()
