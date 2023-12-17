@@ -1,5 +1,3 @@
-
-
 import unittest
 import json
 from app import app
@@ -9,7 +7,7 @@ class TestEndpoints(unittest.TestCase):
         # Set up a test client
         self.app = app.test_client()
         self.app.testing = True
-
+    
     # GET Endpoints
     def test_get_all_listings_success(self):
         response = self.app.get('/listings')
@@ -18,7 +16,7 @@ class TestEndpoints(unittest.TestCase):
     def test_get_listing_by_id_success(self):
         response = self.app.get('/listings/1')
         self.assertEqual(response.status_code, 200)
-
+    
     def test_get_listing_by_id_not_found(self):
         response = self.app.get('/listings/1000')
         self.assertEqual(response.status_code, 404)
@@ -67,7 +65,7 @@ class TestEndpoints(unittest.TestCase):
     def test_update_listing_not_found(self):
         response = self.app.patch('/listings/1000', data=json.dumps({"price": 200}), content_type='application/json')
         self.assertEqual(response.status_code, 404)
-
+    
      # DELETE Endpoint
     def test_delete_listing_success(self):
         listing_id = 1  
